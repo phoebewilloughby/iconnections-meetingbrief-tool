@@ -25,14 +25,14 @@ export function Sidebar({ collapsed = false }: { collapsed?: boolean }) {
       collapsed ? 'w-16' : 'w-56'
     )}>
       {/* Logo */}
-      <div className="flex items-center gap-3 px-4 py-5 border-b border-white/10">
+      <Link href="/dashboard" className="flex items-center gap-3 px-4 py-5 border-b border-white/10 hover:bg-white/5 transition-colors">
         <div className="w-8 h-8 rounded-lg bg-white/15 flex items-center justify-center flex-shrink-0">
           <span className="text-white font-bold text-sm">iC</span>
         </div>
         {!collapsed && (
           <span className="text-white font-semibold text-sm tracking-tight">iConnections</span>
         )}
-      </div>
+      </Link>
 
       {/* Nav */}
       <nav className="flex-1 px-2 py-4 space-y-1">
