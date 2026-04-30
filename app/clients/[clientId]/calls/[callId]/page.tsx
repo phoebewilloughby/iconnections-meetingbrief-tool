@@ -3,11 +3,15 @@
 import { useState, useEffect, use } from 'react';
 import Link from 'next/link';
 import { AppShell } from '@/components/layout/AppShell';
+import { Breadcrumb } from '@/components/layout/Breadcrumb';
 import { ChevronLeft, Clock, Users, ChevronDown, ChevronRight as ChevronR } from 'lucide-react';
 import { adapters } from '@/adapters';
 import { shortDate, formatDuration } from '@/lib/formatters';
-import type { GongCall, GongTranscript } from '@/types';
+import firmsData from '@/data/firms.json';
+import type { GongCall, GongTranscript, Firm } from '@/types';
 import { cn } from '@/lib/utils';
+
+const firms = firmsData as Firm[];
 
 function SentimentBadge({ s }: { s: string }) {
   const map: Record<string, { label: string; bg: string; text: string }> = {
@@ -66,16 +70,16 @@ export default function CallDetailPage({ params }: { params: Promise<{ clientId:
   // Group transcript by speaker for toggle
   const speakers = Array.from(new Set(transcript?.segments.map(s => s.speaker) ?? []));
 
+  const firm = firms.find(f => f.id === clientId);
+
   return (
     <AppShell>
-      <div className="max-w-4xl mx-auto px-6 pb-12">
-        {/* Back */}
-        <div className="py-4">
-          <Link href={`/clients/${clientId}`} className="flex items-center gap-1 text-sm text-[#6B6B6B] hover:text-[#6A2B7E] transition-colors">
-            <ChevronLeft size={16} />
-            Back to client
-          </Link>
-        </div>
+      <Breadcrumb crumbs={[
+        { label: 'My Clients', href: '/clients' },
+        { label: firm?.name ?? clientId, href: `/clients/${clientId}` },
+        { label: call.title },
+      ]} />
+      <div className="max-w-4xl mx-auto px-6 pb-12 pt-2">
 
         {/* Decorative waveform */}
         <div className="hero-gradient rounded-2xl px-6 py-5 mb-6 text-white">

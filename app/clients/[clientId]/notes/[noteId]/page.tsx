@@ -3,14 +3,17 @@
 import { use } from 'react';
 import Link from 'next/link';
 import { AppShell } from '@/components/layout/AppShell';
+import { Breadcrumb } from '@/components/layout/Breadcrumb';
 import { ChevronLeft, Edit, Trash2 } from 'lucide-react';
 import notesData from '@/data/notes.json';
 import csmData from '@/data/csms.json';
-import type { HubSpotNote, CSM } from '@/types';
+import firmsData from '@/data/firms.json';
+import type { HubSpotNote, CSM, Firm } from '@/types';
 import { shortDate, relativeDate } from '@/lib/formatters';
 
 const notes = notesData as HubSpotNote[];
 const csms = csmData as CSM[];
+const firms = firmsData as Firm[];
 
 function renderMarkdown(content: string): React.ReactNode {
   const lines = content.split('\n');
@@ -49,6 +52,7 @@ export default function NoteDetailPage({ params }: { params: Promise<{ clientId:
   const { clientId, noteId } = use(params);
   const note = notes.find(n => n.id === noteId);
   const author = csms.find(c => c.id === note?.authorId);
+  const firm = firms.find(f => f.id === clientId);
 
   if (!note) {
     return (
@@ -60,13 +64,12 @@ export default function NoteDetailPage({ params }: { params: Promise<{ clientId:
 
   return (
     <AppShell>
-      <div className="max-w-2xl mx-auto px-6 pb-12">
-        <div className="py-4">
-          <Link href={`/clients/${clientId}?tab=notes`} className="flex items-center gap-1 text-sm text-[#6B6B6B] hover:text-[#6A2B7E] transition-colors">
-            <ChevronLeft size={16} />
-            Back to notes
-          </Link>
-        </div>
+      <Breadcrumb crumbs={[
+        { label: 'My Clients', href: '/clients' },
+        { label: firm?.name ?? clientId, href: `/clients/${clientId}` },
+        { label: note.content.split('\n')[0].replace(/^#+\s*/, '').slice(0, 50) },
+      ]} />
+      <div className="max-w-2xl mx-auto px-6 pb-12 pt-4">
 
         <div className="bg-white rounded-2xl border border-[#E5E5E5] overflow-hidden">
           {/* Header */}
