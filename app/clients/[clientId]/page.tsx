@@ -556,7 +556,7 @@ export default function ClientProfilePage({ params }: { params: Promise<{ client
     <AppShell>
       <div className="max-w-5xl mx-auto px-6 pb-12">
         {/* Sticky header */}
-        <div className="sticky top-14 z-20 bg-[#FAFAF9]/90 backdrop-blur-sm border-b border-[#E5E5E5] -mx-6 px-6 pt-6 pb-0 no-print">
+        <div className="sticky top-0 z-20 bg-[#FAFAF9]/90 backdrop-blur-sm border-b border-[#E5E5E5] -mx-6 px-6 pt-6 pb-0 no-print">
           {/* Hero band */}
           <div className="hero-gradient rounded-2xl px-6 py-5 mb-0 text-white flex items-start gap-4 flex-wrap">
             <div

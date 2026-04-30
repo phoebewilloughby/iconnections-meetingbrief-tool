@@ -2,14 +2,17 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
-import { Search, Bell, ChevronDown } from 'lucide-react';
+import { Search, Bell, ChevronDown, Menu, PanelLeftClose } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { CommandPalette } from '@/components/search/CommandPalette';
 
-export function TopBar() {
+interface TopBarProps {
+  collapsed: boolean;
+  onToggle: () => void;
+}
+
+export function TopBar({ collapsed, onToggle }: TopBarProps) {
   const [paletteOpen, setPaletteOpen] = useState(false);
-  const router = useRouter();
 
   useEffect(() => {
     function handleKeyDown(e: KeyboardEvent) {
@@ -24,7 +27,16 @@ export function TopBar() {
 
   return (
     <>
-      <header className="glass-nav h-14 flex items-center px-4 gap-4 sticky top-0 z-30 no-print">
+      <header className="glass-nav h-14 flex items-center px-4 gap-3 z-30 no-print flex-shrink-0">
+        {/* Hamburger toggle */}
+        <button
+          onClick={onToggle}
+          aria-label={collapsed ? 'Expand sidebar' : 'Collapse sidebar'}
+          className="p-1.5 rounded-lg text-[#6B6B6B] hover:text-[#6A2B7E] hover:bg-[#F5F0F7] transition-colors flex-shrink-0"
+        >
+          {collapsed ? <Menu size={18} /> : <PanelLeftClose size={18} />}
+        </button>
+
         {/* Search bar */}
         <button
           onClick={() => setPaletteOpen(true)}
