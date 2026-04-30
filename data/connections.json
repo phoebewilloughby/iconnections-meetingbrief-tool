@@ -1,0 +1,68 @@
+{
+  "firm-aldercrest": [
+    { "counterpartyId": "firm-pinehurst",  "counterpartyName": "Pinehurst Pension Trust",      "introducedAt": "2026-02-12", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-larkspur",   "counterpartyName": "Larkspur Endowment",            "introducedAt": "2026-02-14", "meetingsSinceIntro": 1 },
+    { "counterpartyId": "firm-northwind",  "counterpartyName": "Northwind Capital Partners",   "introducedAt": "2025-09-25", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-glenfield",  "counterpartyName": "Glenfield Insurance Group",     "introducedAt": "2025-11-02", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-mendoza",    "counterpartyName": "Mendoza Family Office",          "introducedAt": "2026-01-28", "meetingsSinceIntro": 1 }
+  ],
+  "firm-pinehurst": [
+    { "counterpartyId": "firm-aldercrest",  "counterpartyName": "Aldercrest Capital",            "introducedAt": "2026-02-12", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-brightwater", "counterpartyName": "Brightwater Credit",            "introducedAt": "2026-04-01", "meetingsSinceIntro": 1 },
+    { "counterpartyId": "firm-halcyon",     "counterpartyName": "Halcyon Quantitative",          "introducedAt": "2025-09-22", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-vesper",      "counterpartyName": "Vesper Macro Partners",         "introducedAt": "2025-06-18", "meetingsSinceIntro": 2 }
+  ],
+  "firm-mendoza": [
+    { "counterpartyId": "firm-vesper",      "counterpartyName": "Vesper Macro Partners",         "introducedAt": "2026-01-30", "meetingsSinceIntro": 1 },
+    { "counterpartyId": "firm-brightwater", "counterpartyName": "Brightwater Credit",            "introducedAt": "2025-12-08", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-stonemoor",   "counterpartyName": "Stonemoor Real Estate Partners","introducedAt": "2025-10-14", "meetingsSinceIntro": 1 }
+  ],
+  "firm-larkspur": [
+    { "counterpartyId": "firm-quartzlight", "counterpartyName": "Quartzlight Ventures",          "introducedAt": "2025-12-08", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-aldercrest",  "counterpartyName": "Aldercrest Capital",            "introducedAt": "2026-02-14", "meetingsSinceIntro": 1 },
+    { "counterpartyId": "firm-halcyon",     "counterpartyName": "Halcyon Quantitative",          "introducedAt": "2025-06-18", "meetingsSinceIntro": 3 }
+  ],
+  "firm-northwind": [
+    { "counterpartyId": "firm-brightwater", "counterpartyName": "Brightwater Credit",            "introducedAt": "2025-08-14", "meetingsSinceIntro": 4 },
+    { "counterpartyId": "firm-stonemoor",   "counterpartyName": "Stonemoor Real Estate Partners","introducedAt": "2025-11-20", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-halcyon",     "counterpartyName": "Halcyon Quantitative",          "introducedAt": "2025-09-25", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-aldercrest",  "counterpartyName": "Aldercrest Capital",            "introducedAt": "2025-09-25", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-vesper",      "counterpartyName": "Vesper Macro Partners",         "introducedAt": "2026-01-08", "meetingsSinceIntro": 2 }
+  ],
+  "firm-glenfield": [
+    { "counterpartyId": "firm-brightwater", "counterpartyName": "Brightwater Credit",            "introducedAt": "2025-10-18", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-halcyon",     "counterpartyName": "Halcyon Quantitative",          "introducedAt": "2026-02-05", "meetingsSinceIntro": 1 },
+    { "counterpartyId": "firm-aldercrest",  "counterpartyName": "Aldercrest Capital",            "introducedAt": "2025-11-02", "meetingsSinceIntro": 2 }
+  ],
+  "firm-cobalt": [
+    { "counterpartyId": "firm-quartzlight", "counterpartyName": "Quartzlight Ventures",          "introducedAt": "2026-01-15", "meetingsSinceIntro": 1 }
+  ],
+  "firm-vesper": [
+    { "counterpartyId": "firm-pinehurst",  "counterpartyName": "Pinehurst Pension Trust",        "introducedAt": "2025-06-18", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-northwind",  "counterpartyName": "Northwind Capital Partners",     "introducedAt": "2026-01-08", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-larkspur",   "counterpartyName": "Larkspur Endowment",             "introducedAt": "2026-02-15", "meetingsSinceIntro": 1 },
+    { "counterpartyId": "firm-mendoza",    "counterpartyName": "Mendoza Family Office",           "introducedAt": "2026-01-30", "meetingsSinceIntro": 1 }
+  ],
+  "firm-quartzlight": [
+    { "counterpartyId": "firm-larkspur",   "counterpartyName": "Larkspur Endowment",             "introducedAt": "2025-12-08", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-cobalt",     "counterpartyName": "Cobalt Bridge Foundation",       "introducedAt": "2026-01-15", "meetingsSinceIntro": 1 }
+  ],
+  "firm-brightwater": [
+    { "counterpartyId": "firm-pinehurst",  "counterpartyName": "Pinehurst Pension Trust",        "introducedAt": "2026-04-01", "meetingsSinceIntro": 1 },
+    { "counterpartyId": "firm-northwind",  "counterpartyName": "Northwind Capital Partners",     "introducedAt": "2025-08-14", "meetingsSinceIntro": 4 },
+    { "counterpartyId": "firm-glenfield",  "counterpartyName": "Glenfield Insurance Group",      "introducedAt": "2025-10-18", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-mendoza",    "counterpartyName": "Mendoza Family Office",           "introducedAt": "2025-12-08", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-larkspur",   "counterpartyName": "Larkspur Endowment",             "introducedAt": "2026-03-05", "meetingsSinceIntro": 1 }
+  ],
+  "firm-stonemoor": [
+    { "counterpartyId": "firm-northwind",  "counterpartyName": "Northwind Capital Partners",     "introducedAt": "2025-11-20", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-glenfield",  "counterpartyName": "Glenfield Insurance Group",      "introducedAt": "2025-12-15", "meetingsSinceIntro": 2 },
+    { "counterpartyId": "firm-mendoza",    "counterpartyName": "Mendoza Family Office",           "introducedAt": "2025-10-14", "meetingsSinceIntro": 1 }
+  ],
+  "firm-halcyon": [
+    { "counterpartyId": "firm-pinehurst",  "counterpartyName": "Pinehurst Pension Trust",        "introducedAt": "2025-09-22", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-northwind",  "counterpartyName": "Northwind Capital Partners",     "introducedAt": "2025-09-25", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-larkspur",   "counterpartyName": "Larkspur Endowment",             "introducedAt": "2025-06-18", "meetingsSinceIntro": 3 },
+    { "counterpartyId": "firm-glenfield",  "counterpartyName": "Glenfield Insurance Group",      "introducedAt": "2026-02-05", "meetingsSinceIntro": 1 }
+  ]
+}

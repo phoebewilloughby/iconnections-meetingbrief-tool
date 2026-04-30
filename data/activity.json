@@ -1,0 +1,208 @@
+{
+  "firm-aldercrest": {
+    "clientId": "firm-aldercrest",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-28","count":3},{"date":"2026-04-27","count":2},{"date":"2026-04-25","count":4},
+      {"date":"2026-04-24","count":2},{"date":"2026-04-23","count":3},{"date":"2026-04-22","count":1},
+      {"date":"2026-04-21","count":3},{"date":"2026-04-18","count":4},{"date":"2026-04-17","count":2},
+      {"date":"2026-04-16","count":3},{"date":"2026-04-15","count":2},{"date":"2026-04-14","count":1},
+      {"date":"2026-04-11","count":3},{"date":"2026-04-10","count":4},{"date":"2026-04-09","count":2},
+      {"date":"2026-04-08","count":3},{"date":"2026-04-07","count":2},{"date":"2026-04-04","count":4},
+      {"date":"2026-04-03","count":3},{"date":"2026-04-02","count":2},{"date":"2026-04-01","count":3},
+      {"date":"2026-03-31","count":2},{"date":"2026-03-28","count":4},{"date":"2026-03-27","count":3},
+      {"date":"2026-03-26","count":2},{"date":"2026-03-25","count":3},{"date":"2026-03-24","count":2},
+      {"date":"2026-03-21","count":4},{"date":"2026-03-20","count":3},{"date":"2026-03-19","count":2}
+    ],
+    "meetingsRequestedSent": 18,
+    "meetingsRequestedReceived": 24,
+    "meetingsConfirmed": 31,
+    "meetingsAttended": 28,
+    "searchesPerformed": 67,
+    "profileViews": 142
+  },
+  "firm-pinehurst": {
+    "clientId": "firm-pinehurst",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-29","count":2},{"date":"2026-04-28","count":3},{"date":"2026-04-25","count":2},
+      {"date":"2026-04-24","count":1},{"date":"2026-04-22","count":2},{"date":"2026-04-21","count":3},
+      {"date":"2026-04-18","count":2},{"date":"2026-04-17","count":1},{"date":"2026-04-16","count":2},
+      {"date":"2026-04-15","count":3},{"date":"2026-04-14","count":2},{"date":"2026-04-11","count":4},
+      {"date":"2026-04-10","count":3},{"date":"2026-04-09","count":2},{"date":"2026-04-08","count":1},
+      {"date":"2026-04-07","count":2},{"date":"2026-04-04","count":3},{"date":"2026-04-03","count":2},
+      {"date":"2026-04-02","count":1},{"date":"2026-04-01","count":2},{"date":"2026-03-31","count":3},
+      {"date":"2026-03-28","count":4},{"date":"2026-03-27","count":2},{"date":"2026-03-25","count":1},
+      {"date":"2026-03-24","count":2},{"date":"2026-03-21","count":3},{"date":"2026-03-20","count":2}
+    ],
+    "meetingsRequestedSent": 12,
+    "meetingsRequestedReceived": 8,
+    "meetingsConfirmed": 15,
+    "meetingsAttended": 14,
+    "searchesPerformed": 43,
+    "profileViews": 89
+  },
+  "firm-mendoza": {
+    "clientId": "firm-mendoza",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-18","count":2},{"date":"2026-04-14","count":1},{"date":"2026-04-10","count":1},
+      {"date":"2026-04-07","count":2},{"date":"2026-04-03","count":1},{"date":"2026-03-28","count":1},
+      {"date":"2026-03-25","count":2},{"date":"2026-03-21","count":1},{"date":"2026-03-18","count":1},
+      {"date":"2026-03-14","count":2},{"date":"2026-03-11","count":1},{"date":"2026-03-07","count":1},
+      {"date":"2026-03-04","count":2},{"date":"2026-02-28","count":1},{"date":"2026-02-25","count":1},
+      {"date":"2026-02-21","count":1},{"date":"2026-02-18","count":2},{"date":"2026-02-14","count":1}
+    ],
+    "meetingsRequestedSent": 4,
+    "meetingsRequestedReceived": 9,
+    "meetingsConfirmed": 6,
+    "meetingsAttended": 5,
+    "searchesPerformed": 18,
+    "profileViews": 34
+  },
+  "firm-larkspur": {
+    "clientId": "firm-larkspur",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-28","count":2},{"date":"2026-04-25","count":3},{"date":"2026-04-24","count":2},
+      {"date":"2026-04-22","count":1},{"date":"2026-04-21","count":2},{"date":"2026-04-18","count":3},
+      {"date":"2026-04-17","count":2},{"date":"2026-04-16","count":1},{"date":"2026-04-15","count":2},
+      {"date":"2026-04-14","count":3},{"date":"2026-04-11","count":2},{"date":"2026-04-10","count":3},
+      {"date":"2026-04-09","count":2},{"date":"2026-04-08","count":1},{"date":"2026-04-07","count":2},
+      {"date":"2026-04-04","count":3},{"date":"2026-04-03","count":2},{"date":"2026-04-02","count":1}
+    ],
+    "meetingsRequestedSent": 9,
+    "meetingsRequestedReceived": 14,
+    "meetingsConfirmed": 16,
+    "meetingsAttended": 15,
+    "searchesPerformed": 38,
+    "profileViews": 71
+  },
+  "firm-northwind": {
+    "clientId": "firm-northwind",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-29","count":4},{"date":"2026-04-28","count":3},{"date":"2026-04-25","count":4},
+      {"date":"2026-04-24","count":3},{"date":"2026-04-23","count":2},{"date":"2026-04-22","count":3},
+      {"date":"2026-04-21","count":4},{"date":"2026-04-18","count":3},{"date":"2026-04-17","count":4},
+      {"date":"2026-04-16","count":3},{"date":"2026-04-15","count":2},{"date":"2026-04-14","count":3},
+      {"date":"2026-04-11","count":4},{"date":"2026-04-10","count":3},{"date":"2026-04-09","count":4}
+    ],
+    "meetingsRequestedSent": 22,
+    "meetingsRequestedReceived": 16,
+    "meetingsConfirmed": 28,
+    "meetingsAttended": 26,
+    "searchesPerformed": 84,
+    "profileViews": 156
+  },
+  "firm-glenfield": {
+    "clientId": "firm-glenfield",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-28","count":3},{"date":"2026-04-25","count":2},{"date":"2026-04-24","count":3},
+      {"date":"2026-04-22","count":2},{"date":"2026-04-21","count":3},{"date":"2026-04-18","count":2},
+      {"date":"2026-04-17","count":3},{"date":"2026-04-15","count":2},{"date":"2026-04-14","count":3},
+      {"date":"2026-04-11","count":2},{"date":"2026-04-10","count":3},{"date":"2026-04-08","count":2}
+    ],
+    "meetingsRequestedSent": 14,
+    "meetingsRequestedReceived": 11,
+    "meetingsConfirmed": 18,
+    "meetingsAttended": 16,
+    "searchesPerformed": 52,
+    "profileViews": 98
+  },
+  "firm-cobalt": {
+    "clientId": "firm-cobalt",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-25","count":1},{"date":"2026-04-21","count":2},{"date":"2026-04-17","count":1},
+      {"date":"2026-04-14","count":2},{"date":"2026-04-10","count":1},{"date":"2026-04-07","count":2},
+      {"date":"2026-04-03","count":1},{"date":"2026-03-31","count":2},{"date":"2026-03-28","count":1},
+      {"date":"2026-03-25","count":2},{"date":"2026-03-21","count":1},{"date":"2026-03-18","count":2}
+    ],
+    "meetingsRequestedSent": 5,
+    "meetingsRequestedReceived": 7,
+    "meetingsConfirmed": 8,
+    "meetingsAttended": 7,
+    "searchesPerformed": 22,
+    "profileViews": 45
+  },
+  "firm-vesper": {
+    "clientId": "firm-vesper",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-28","count":3},{"date":"2026-04-25","count":2},{"date":"2026-04-24","count":3},
+      {"date":"2026-04-22","count":2},{"date":"2026-04-21","count":3},{"date":"2026-04-18","count":4},
+      {"date":"2026-04-17","count":3},{"date":"2026-04-16","count":2},{"date":"2026-04-15","count":3},
+      {"date":"2026-04-14","count":2},{"date":"2026-04-11","count":3},{"date":"2026-04-10","count":2}
+    ],
+    "meetingsRequestedSent": 16,
+    "meetingsRequestedReceived": 12,
+    "meetingsConfirmed": 21,
+    "meetingsAttended": 19,
+    "searchesPerformed": 58,
+    "profileViews": 112
+  },
+  "firm-quartzlight": {
+    "clientId": "firm-quartzlight",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-25","count":1},{"date":"2026-04-22","count":2},{"date":"2026-04-18","count":1},
+      {"date":"2026-04-15","count":2},{"date":"2026-04-11","count":1},{"date":"2026-04-07","count":1},
+      {"date":"2026-04-04","count":2},{"date":"2026-03-31","count":1},{"date":"2026-03-28","count":2},
+      {"date":"2026-03-25","count":1},{"date":"2026-03-22","count":2},{"date":"2026-03-18","count":1}
+    ],
+    "meetingsRequestedSent": 6,
+    "meetingsRequestedReceived": 11,
+    "meetingsConfirmed": 9,
+    "meetingsAttended": 8,
+    "searchesPerformed": 28,
+    "profileViews": 56
+  },
+  "firm-brightwater": {
+    "clientId": "firm-brightwater",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-29","count":3},{"date":"2026-04-28","count":4},{"date":"2026-04-25","count":3},
+      {"date":"2026-04-24","count":4},{"date":"2026-04-23","count":3},{"date":"2026-04-22","count":2},
+      {"date":"2026-04-21","count":3},{"date":"2026-04-18","count":4},{"date":"2026-04-17","count":3}
+    ],
+    "meetingsRequestedSent": 20,
+    "meetingsRequestedReceived": 28,
+    "meetingsConfirmed": 35,
+    "meetingsAttended": 32,
+    "searchesPerformed": 76,
+    "profileViews": 168
+  },
+  "firm-stonemoor": {
+    "clientId": "firm-stonemoor",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-28","count":2},{"date":"2026-04-25","count":3},{"date":"2026-04-24","count":2},
+      {"date":"2026-04-22","count":3},{"date":"2026-04-21","count":2},{"date":"2026-04-18","count":3},
+      {"date":"2026-04-17","count":2},{"date":"2026-04-15","count":3},{"date":"2026-04-14","count":2}
+    ],
+    "meetingsRequestedSent": 13,
+    "meetingsRequestedReceived": 17,
+    "meetingsConfirmed": 22,
+    "meetingsAttended": 20,
+    "searchesPerformed": 48,
+    "profileViews": 94
+  },
+  "firm-halcyon": {
+    "clientId": "firm-halcyon",
+    "windowDays": 90,
+    "logins": [
+      {"date":"2026-04-29","count":4},{"date":"2026-04-28","count":5},{"date":"2026-04-25","count":4},
+      {"date":"2026-04-24","count":5},{"date":"2026-04-23","count":4},{"date":"2026-04-22","count":3},
+      {"date":"2026-04-21","count":4},{"date":"2026-04-18","count":5},{"date":"2026-04-17","count":4},
+      {"date":"2026-04-16","count":3},{"date":"2026-04-15","count":4},{"date":"2026-04-14","count":5}
+    ],
+    "meetingsRequestedSent": 26,
+    "meetingsRequestedReceived": 34,
+    "meetingsConfirmed": 42,
+    "meetingsAttended": 38,
+    "searchesPerformed": 96,
+    "profileViews": 214
+  }
+}

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "call-ac-001",
+    "clientId": "firm-aldercrest",
+    "title": "Aldercrest — Q2 Check-in",
+    "scheduledStart": "2026-04-18T14:00:00Z",
+    "duration": 2580,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Sarah Lin", "email": "slin@aldercrestcapital.com", "affiliation": "external" },
+      { "name": "Nina Osei", "email": "nosei@aldercrestcapital.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Phoebe and Sarah discussed Aldercrest's strong Q1 performance following their recent $400M pension close, and confirmed early access for Global Alts Miami. Sarah flagged a product request around automatic meeting outcome tagging in the analytics dashboard. Nina noted they are ready to start reviewing three allocator profiles Phoebe will share.",
+    "sentiment": "positive",
+    "topics": ["Event Planning / Global Alts", "Platform Feedback / Feature Request", "New Introduction Requested"]
+  },
+  {
+    "id": "call-ac-002",
+    "clientId": "firm-aldercrest",
+    "title": "Aldercrest — Renewal Prep",
+    "scheduledStart": "2026-02-05T15:00:00Z",
+    "duration": 3120,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "James Okafor", "email": "jokafor@iconnections.io", "affiliation": "internal" },
+      { "name": "James Harrington", "email": "jharrington@aldercrestcapital.com", "affiliation": "external" },
+      { "name": "Sarah Lin", "email": "slin@aldercrestcapital.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Renewal discussion with James Harrington and Sarah Lin. Aldercrest is satisfied with platform ROI, citing three allocator meetings that progressed to due diligence in the past year. Pricing was discussed and they requested a proposal for the Enterprise tier to unlock analytics and priority event slots. No major objections raised.",
+    "sentiment": "positive",
+    "topics": ["Renewal Discussion / Pricing / Contract", "Strategy Review"]
+  },
+  {
+    "id": "call-ac-003",
+    "clientId": "firm-aldercrest",
+    "title": "Aldercrest — Global Alts Miami Prep",
+    "scheduledStart": "2026-01-15T16:00:00Z",
+    "duration": 1860,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Sarah Lin", "email": "slin@aldercrestcapital.com", "affiliation": "external" },
+      { "name": "Ben Castillo", "email": "bcastillo@aldercrestcapital.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Pre-conference prep call covering Aldercrest's target allocator profile for Global Alts Miami 2026. Sarah and Ben have 14 confirmed meeting slots and requested three additional introductions to public pension CIOs. Phoebe confirmed Pinehurst and Larkspur are both attending and open to introductions.",
+    "sentiment": "positive",
+    "topics": ["Event Planning / Global Alts", "New Introduction Requested"]
+  },
+  {
+    "id": "call-ac-004",
+    "clientId": "firm-aldercrest",
+    "title": "Aldercrest — Post-Miami Debrief",
+    "scheduledStart": "2026-02-25T13:00:00Z",
+    "duration": 2100,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Sarah Lin", "email": "slin@aldercrestcapital.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Post-conference debrief. Aldercrest took 14 meetings at Global Alts Miami, three of which Sarah identified as strong pipeline prospects. Two allocators have already requested follow-up materials via the platform. Sarah noted that meeting scheduling through iConnections was significantly smoother than last year.",
+    "sentiment": "positive",
+    "topics": ["Event Planning / Global Alts", "Performance Discussion"]
+  },
+  {
+    "id": "call-ac-005",
+    "clientId": "firm-aldercrest",
+    "title": "Aldercrest — Escalation: Analytics Access Issue",
+    "scheduledStart": "2025-12-10T14:00:00Z",
+    "duration": 1200,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Sarah Lin", "email": "slin@aldercrestcapital.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Sarah reported that their analytics dashboard was showing incorrect engagement scores for three allocator profiles over a two-week period. Phoebe acknowledged the issue, confirmed it was a platform bug affecting a subset of Premium clients, and escalated to the product team. A fix was deployed within 24 hours. Sarah appreciated the responsiveness.",
+    "sentiment": "neutral",
+    "topics": ["Escalation / Issue", "Platform Feedback / Feature Request"]
+  },
+
+  {
+    "id": "call-pp-001",
+    "clientId": "firm-pinehurst",
+    "title": "Pinehurst — Q1 Review & Event Prep",
+    "scheduledStart": "2026-03-28T14:00:00Z",
+    "duration": 3600,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Robert Haines", "email": "rhaines@pinehurstpension.org", "affiliation": "external" },
+      { "name": "Diana Forsythe", "email": "dforsythe@pinehurstpension.org", "affiliation": "external" },
+      { "name": "Allison Torres", "email": "atorres@pinehurstpension.org", "affiliation": "external" }
+    ],
+    "aiSummary": "Comprehensive quarterly review with Pinehurst's investment team. Robert confirmed they are increasing their alternatives target to 22% and are actively looking for direct lending and long/short equity exposure. Phoebe presented Brightwater Credit and Aldercrest as candidates. Diana and Allison requested detailed platform analytics on their engagement history.",
+    "sentiment": "positive",
+    "topics": ["Strategy Review", "New Introduction Requested", "Performance Discussion"]
+  },
+  {
+    "id": "call-pp-002",
+    "clientId": "firm-pinehurst",
+    "title": "Pinehurst — Renewal Discussion",
+    "scheduledStart": "2025-12-18T15:00:00Z",
+    "duration": 2700,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Robert Haines", "email": "rhaines@pinehurstpension.org", "affiliation": "external" },
+      { "name": "Kevin Marsh", "email": "kmarsh@pinehurstpension.org", "affiliation": "external" }
+    ],
+    "aiSummary": "Early renewal conversation. Robert expressed strong satisfaction with the platform, specifically citing the warm-introduction workflow and conference scheduling tool. Kevin flagged a need for better portfolio-level reporting across all manager meetings. No pricing concerns. Renewal confirmed for January.",
+    "sentiment": "positive",
+    "topics": ["Renewal Discussion / Pricing / Contract", "Platform Feedback / Feature Request"]
+  },
+  {
+    "id": "call-pp-003",
+    "clientId": "firm-pinehurst",
+    "title": "Pinehurst — Onboarding New Analyst",
+    "scheduledStart": "2025-11-07T13:00:00Z",
+    "duration": 2400,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Kevin Marsh", "email": "kmarsh@pinehurstpension.org", "affiliation": "external" },
+      { "name": "Allison Torres", "email": "atorres@pinehurstpension.org", "affiliation": "external" }
+    ],
+    "aiSummary": "Training session for Kevin Marsh, a new senior analyst joining Pinehurst's alternatives team. Covered the full platform workflow including manager search, profile filtering, meeting request flow, and post-meeting notes. Kevin asked excellent questions about API access for integrating platform data into their internal portfolio management system.",
+    "sentiment": "positive",
+    "topics": ["Onboarding / Training", "Platform Feedback / Feature Request"]
+  },
+
+  {
+    "id": "call-vm-001",
+    "clientId": "firm-vesper",
+    "title": "Vesper — Renewal Conversation",
+    "scheduledStart": "2026-04-02T10:00:00Z",
+    "duration": 3000,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Helena Bauer", "email": "hbauer@vespermacro.com", "affiliation": "external" },
+      { "name": "Oliver Ashford", "email": "oashford@vespermacro.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Renewal conversation with Vesper's IR and PM team. Oliver expressed satisfaction with the quality of introductions, noting that two family office meetings from Global Alts Switzerland progressed into active due diligence. Helena raised a question about pricing for their new emerging markets sleeve — whether it counts as a separate product under the subscription terms.",
+    "sentiment": "positive",
+    "topics": ["Renewal Discussion / Pricing / Contract", "New Mandate / Allocation Plans"]
+  },
+  {
+    "id": "call-vm-002",
+    "clientId": "firm-vesper",
+    "title": "Vesper — EM Sleeve Launch Strategy",
+    "scheduledStart": "2026-03-10T11:00:00Z",
+    "duration": 2400,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Helena Bauer", "email": "hbauer@vespermacro.com", "affiliation": "external" },
+      { "name": "Rajan Mehta", "email": "rmehta@vespermacro.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Strategy call for the launch of Vesper's new emerging markets rates and FX sleeve. Rajan outlined the strategy and target return profile. Phoebe identified six allocators on the platform with EM mandate appetite, including three family offices and two endowments. The team agreed to prioritize warm introductions before the Global Alts Miami conference.",
+    "sentiment": "positive",
+    "topics": ["New Mandate / Allocation Plans", "Event Planning / Global Alts", "New Introduction Requested"]
+  },
+  {
+    "id": "call-vm-003",
+    "clientId": "firm-vesper",
+    "title": "Vesper — Q3 Check-in",
+    "scheduledStart": "2025-10-14T14:00:00Z",
+    "duration": 1980,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Helena Bauer", "email": "hbauer@vespermacro.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Quarterly check-in. Helena reported that platform engagement was up, with 12 new allocator connections in Q3. She noted one introduction that did not go well due to a mismatch in liquidity expectations, and asked Phoebe to review the allocator profile filters for the macro category.",
+    "sentiment": "neutral",
+    "topics": ["Platform Feedback / Feature Request", "Strategy Review"]
+  },
+
+  {
+    "id": "call-mf-001",
+    "clientId": "firm-mendoza",
+    "title": "Mendoza — Global Alts Prep",
+    "scheduledStart": "2026-01-20T16:00:00Z",
+    "duration": 1800,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Claire Dupont", "email": "cdupont@mendozacapital.com", "affiliation": "external" },
+      { "name": "Victor Reyes", "email": "vreyes@mendozacapital.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Pre-conference preparation for Global Alts Miami. Claire confirmed they are looking at three private equity managers and two hedge funds for new allocations. Victor asked about scheduling priority — they have tight availability and want to ensure meetings are with decision-ready managers only. Phoebe agreed to flag meeting-request urgency levels.",
+    "sentiment": "positive",
+    "topics": ["Event Planning / Global Alts", "New Mandate / Allocation Plans"]
+  },
+  {
+    "id": "call-mf-002",
+    "clientId": "firm-mendoza",
+    "title": "Mendoza — New CIO Introduction",
+    "scheduledStart": "2025-11-19T15:00:00Z",
+    "duration": 2700,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Alejandro Mendoza", "email": "amendoza@mendozacapital.com", "affiliation": "external" },
+      { "name": "Claire Dupont", "email": "cdupont@mendozacapital.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Introductory call with Claire Dupont, the newly appointed CIO of Mendoza Family Office. Claire is a former Goldman Sachs partner transitioning to the family office space. She outlined her investment philosophy — concentration in best ideas across PE, macro, and credit — and expressed interest in expanding the family office's manager relationships through iConnections.",
+    "sentiment": "positive",
+    "topics": ["Team Change / Personnel Update", "Strategy Review"]
+  },
+  {
+    "id": "call-mf-003",
+    "clientId": "firm-mendoza",
+    "title": "Mendoza — Platform Feedback & Renewal Risk",
+    "scheduledStart": "2026-03-05T11:00:00Z",
+    "duration": 1680,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Claire Dupont", "email": "cdupont@mendozacapital.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Claire raised concerns about the quality of manager matches on the platform, noting that several recommendations did not match the family office's liquidity and ticket-size requirements. She also mentioned they are evaluating Albourne Partners as an alternative for manager sourcing. Phoebe committed to improving match quality and scheduling a dedicated filter-refinement session.",
+    "sentiment": "negative",
+    "topics": ["Platform Feedback / Feature Request", "Escalation / Issue", "Renewal Discussion / Pricing / Contract"]
+  },
+
+  {
+    "id": "call-le-001",
+    "clientId": "firm-larkspur",
+    "title": "Larkspur — Annual Review",
+    "scheduledStart": "2026-04-10T14:00:00Z",
+    "duration": 4200,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Margaret Whitfield", "email": "mwhitfield@larkspurendowment.edu", "affiliation": "external" },
+      { "name": "Patrick Sullivan", "email": "psullivan@larkspurendowment.edu", "affiliation": "external" },
+      { "name": "Naomi Cheng", "email": "ncheng@larkspurendowment.edu", "affiliation": "external" }
+    ],
+    "aiSummary": "Comprehensive annual review with Larkspur's full investment team. Margaret confirmed the endowment met its CPI+5% target for the fiscal year, with alternatives as the primary driver. The team is actively expanding VC allocations and is interested in second meetings with Quartzlight Ventures and a second Palo Alto-based fund. Patrick requested improved reporting on total platform-facilitated meeting outcomes.",
+    "sentiment": "positive",
+    "topics": ["Strategy Review", "Performance Discussion", "New Introduction Requested", "Platform Feedback / Feature Request"]
+  },
+  {
+    "id": "call-le-002",
+    "clientId": "firm-larkspur",
+    "title": "Larkspur — VC Manager Introductions",
+    "scheduledStart": "2025-11-22T15:00:00Z",
+    "duration": 2400,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Naomi Cheng", "email": "ncheng@larkspurendowment.edu", "affiliation": "external" }
+    ],
+    "aiSummary": "Naomi reviewed a shortlist of five VC managers surfaced through the platform. She narrowed to two based on vintage year alignment and team stability. Phoebe confirmed that Quartzlight Ventures is raising their Fund IV and would be an appropriate introduction. Naomi requested a warm intro call be scheduled within the next three weeks.",
+    "sentiment": "positive",
+    "topics": ["New Introduction Requested", "New Mandate / Allocation Plans"]
+  },
+  {
+    "id": "call-le-003",
+    "clientId": "firm-larkspur",
+    "title": "Larkspur — Mid-Year Check-in",
+    "scheduledStart": "2025-09-15T13:00:00Z",
+    "duration": 2100,
+    "participants": [
+      { "name": "Phoebe Willoughby", "email": "pwilloughby@iconnections.io", "affiliation": "internal" },
+      { "name": "Margaret Whitfield", "email": "mwhitfield@larkspurendowment.edu", "affiliation": "external" }
+    ],
+    "aiSummary": "Mid-year check-in covering platform usage and upcoming conference planning for Global Alts Switzerland. Margaret noted that the platform has been most useful for VC and emerging manager discovery, and slightly less useful for hedge fund introductions due to limited manager breadth in macro strategies. Phoebe noted she would work on expanding the macro manager roster.",
+    "sentiment": "neutral",
+    "topics": ["Strategy Review", "Event Planning / Global Alts", "Platform Feedback / Feature Request"]
+  },
+
+  {
+    "id": "call-nc-001",
+    "clientId": "firm-northwind",
+    "title": "Northwind — Q1 Business Review",
+    "scheduledStart": "2026-04-05T14:00:00Z",
+    "duration": 3600,
+    "participants": [
+      { "name": "Marcus Chen", "email": "mchen@iconnections.io", "affiliation": "internal" },
+      { "name": "Thomas Bridger", "email": "tbridger@northwindcp.com", "affiliation": "external" },
+      { "name": "Samantha Kovacs", "email": "skovacs@northwindcp.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Quarterly business review. Thomas highlighted strong deal flow from the platform in Q1, with four manager meetings progressing to full due diligence. Samantha requested expanded reporting dashboards and the ability to tag meetings by investment mandate. Marcus committed to escalating the reporting request to the product team.",
+    "sentiment": "positive",
+    "topics": ["Performance Discussion", "Platform Feedback / Feature Request"]
+  },
+  {
+    "id": "call-nc-002",
+    "clientId": "firm-northwind",
+    "title": "Northwind — New Mandate Discussion",
+    "scheduledStart": "2026-02-14T10:00:00Z",
+    "duration": 2700,
+    "participants": [
+      { "name": "Marcus Chen", "email": "mchen@iconnections.io", "affiliation": "internal" },
+      { "name": "Daniel Huang", "email": "dhuang@northwindcp.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Daniel walked Marcus through a new $800M infrastructure mandate Northwind is building on behalf of a sovereign wealth fund client. The mandate targets mid-market infrastructure equity and debt co-investments. Marcus identified eight potential managers on the platform and agreed to facilitate introductions in tranches over the next 60 days.",
+    "sentiment": "positive",
+    "topics": ["New Mandate / Allocation Plans", "New Introduction Requested"]
+  },
+
+  {
+    "id": "call-gi-001",
+    "clientId": "firm-glenfield",
+    "title": "Glenfield — Alternatives Expansion Brief",
+    "scheduledStart": "2026-03-18T14:00:00Z",
+    "duration": 3000,
+    "participants": [
+      { "name": "James Okafor", "email": "jokafor@iconnections.io", "affiliation": "internal" },
+      { "name": "Barbara Thornton", "email": "bthorton@glenfieldinsurance.com", "affiliation": "external" },
+      { "name": "Michael Stafford", "email": "mstafford@glenfieldinsurance.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Strategy call on Glenfield's alternatives expansion from 8% to 14% of general account assets. Barbara and Michael outlined preference for investment-grade private credit, infrastructure, and low-net hedge funds. Regulatory capital constraints make liquidity a top priority. James agreed to curate a shortlist of ten managers across these categories.",
+    "sentiment": "positive",
+    "topics": ["New Mandate / Allocation Plans", "Strategy Review"]
+  },
+  {
+    "id": "call-gi-002",
+    "clientId": "firm-glenfield",
+    "title": "Glenfield — Platform Training: New Team Members",
+    "scheduledStart": "2026-01-28T15:00:00Z",
+    "duration": 2700,
+    "participants": [
+      { "name": "James Okafor", "email": "jokafor@iconnections.io", "affiliation": "internal" },
+      { "name": "Lauren Park", "email": "lpark@glenfieldinsurance.com", "affiliation": "external" },
+      { "name": "David Elsworth", "email": "delsworth@glenfieldinsurance.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Onboarding training for Lauren Park and David Elsworth, newly appointed to Glenfield's alternatives investment team. James walked through the full meeting request workflow, manager profile filtering, and the analytics dashboard. Both Lauren and David are analytical and asked detailed questions about data export capabilities.",
+    "sentiment": "positive",
+    "topics": ["Onboarding / Training"]
+  },
+
+  {
+    "id": "call-cb-001",
+    "clientId": "firm-cobalt",
+    "title": "Cobalt Bridge — Impact Strategy Discussion",
+    "scheduledStart": "2026-03-20T11:00:00Z",
+    "duration": 2400,
+    "participants": [
+      { "name": "Olivia Rashidi", "email": "orashidi@iconnections.io", "affiliation": "internal" },
+      { "name": "Priya Nair", "email": "pnair@cobaltbridge.org", "affiliation": "external" },
+      { "name": "Amara Diallo", "email": "adiallo@cobaltbridge.org", "affiliation": "external" }
+    ],
+    "aiSummary": "Priya and Amara outlined Cobalt Bridge's updated investment policy, which now requires all new alternative manager relationships to have a documented impact thesis. Amara is building a climate tech VC sleeve and asked for warm introductions to funds with measurable emissions reduction targets. Olivia confirmed three Quartzlight-adjacent managers on the platform that match the criteria.",
+    "sentiment": "positive",
+    "topics": ["New Mandate / Allocation Plans", "New Introduction Requested", "Strategy Review"]
+  },
+  {
+    "id": "call-cb-002",
+    "clientId": "firm-cobalt",
+    "title": "Cobalt Bridge — Standard Tier Review",
+    "scheduledStart": "2025-10-08T14:00:00Z",
+    "duration": 1800,
+    "participants": [
+      { "name": "Olivia Rashidi", "email": "orashidi@iconnections.io", "affiliation": "internal" },
+      { "name": "Jason Weller", "email": "jweller@cobaltbridge.org", "affiliation": "external" }
+    ],
+    "aiSummary": "Jason reviewed Cobalt Bridge's usage of the Standard tier and asked about the cost of upgrading to Premium. He noted that the Standard tier's limited meeting-request quota is a bottleneck now that the team is actively allocating to alternatives. Olivia presented a case for upgrading before their 2026 renewal and agreed to send a proposal.",
+    "sentiment": "neutral",
+    "topics": ["Renewal Discussion / Pricing / Contract", "Platform Feedback / Feature Request"]
+  },
+
+  {
+    "id": "call-bc-001",
+    "clientId": "firm-brightwater",
+    "title": "Brightwater — Fund III Close Celebration",
+    "scheduledStart": "2026-02-10T15:00:00Z",
+    "duration": 1800,
+    "participants": [
+      { "name": "James Okafor", "email": "jokafor@iconnections.io", "affiliation": "internal" },
+      { "name": "Christine Malone", "email": "cmalone@brightwatercredit.com", "affiliation": "external" },
+      { "name": "Andrew Petrov", "email": "apetrov@brightwatercredit.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Celebration call following Brightwater's successful Fund III close at $2.2B, oversubscribed against a $1.8B target. Christine credited three significant LP commitments to introductions facilitated through iConnections, including one public pension and two insurance companies. Andrew noted they are beginning early planning for Fund IV and want to retain exclusive access to the platform.",
+    "sentiment": "positive",
+    "topics": ["New Mandate / Allocation Plans", "Performance Discussion"]
+  },
+  {
+    "id": "call-bc-002",
+    "clientId": "firm-brightwater",
+    "title": "Brightwater — Allocator Pipeline Review",
+    "scheduledStart": "2026-03-28T10:00:00Z",
+    "duration": 2700,
+    "participants": [
+      { "name": "James Okafor", "email": "jokafor@iconnections.io", "affiliation": "internal" },
+      { "name": "Andrew Petrov", "email": "apetrov@brightwatercredit.com", "affiliation": "external" },
+      { "name": "Grace Holloway", "email": "gholloway@brightwatercredit.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Quarterly pipeline review. Andrew and Grace walked James through 18 active allocator relationships in various stages. Six originated from iConnections introductions. The team asked for better tracking of the full meeting-to-commitment journey within the platform, as they currently use a separate CRM for funnel tracking.",
+    "sentiment": "positive",
+    "topics": ["Performance Discussion", "Platform Feedback / Feature Request", "New Introduction Requested"]
+  },
+
+  {
+    "id": "call-sr-001",
+    "clientId": "firm-stonemoor",
+    "title": "Stonemoor — Event Strategy for 2026",
+    "scheduledStart": "2026-01-12T14:00:00Z",
+    "duration": 2700,
+    "participants": [
+      { "name": "Marcus Chen", "email": "mchen@iconnections.io", "affiliation": "internal" },
+      { "name": "Karen Whitmore", "email": "kwhitmore@stonemoorpartners.com", "affiliation": "external" },
+      { "name": "Marcus Reid", "email": "mreid@stonemoorpartners.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Annual event strategy planning session. Stonemoor is registering for Global Alts Miami and targeting allocators with Sun Belt real estate appetite. Karen has a specific list of insurance companies and public pensions they want to meet. Marcus Reid requested a one-pager on how the iConnections platform can help them pre-qualify meeting partners before the conference.",
+    "sentiment": "positive",
+    "topics": ["Event Planning / Global Alts", "New Introduction Requested"]
+  },
+  {
+    "id": "call-sr-002",
+    "clientId": "firm-stonemoor",
+    "title": "Stonemoor — Team Change: New IR Lead",
+    "scheduledStart": "2025-11-04T15:00:00Z",
+    "duration": 1800,
+    "participants": [
+      { "name": "Marcus Chen", "email": "mchen@iconnections.io", "affiliation": "internal" },
+      { "name": "William Drake", "email": "wdrake@stonemoorpartners.com", "affiliation": "external" },
+      { "name": "Karen Whitmore", "email": "kwhitmore@stonemoorpartners.com", "affiliation": "external" }
+    ],
+    "aiSummary": "William introduced Karen Whitmore as the new Head of Capital Formation, replacing the previous IR lead who departed for a family office role. Karen comes from Blackstone's LP Relations team. Marcus committed to a full platform onboarding session and updated the account's primary contact accordingly.",
+    "sentiment": "positive",
+    "topics": ["Team Change / Personnel Update", "Onboarding / Training"]
+  },
+
+  {
+    "id": "call-hq-001",
+    "clientId": "firm-halcyon",
+    "title": "Halcyon — Q4 Review & Platform Deep Dive",
+    "scheduledStart": "2026-04-15T14:00:00Z",
+    "duration": 3600,
+    "participants": [
+      { "name": "Olivia Rashidi", "email": "orashidi@iconnections.io", "affiliation": "internal" },
+      { "name": "Jonathan Faber", "email": "jfaber@halcyonquant.com", "affiliation": "external" },
+      { "name": "Ingrid Sorenson", "email": "isorenson@halcyonquant.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Full quarterly review with Halcyon's CIO and IR team. Jonathan reported exceptional platform engagement in Q4, with the highest meeting-request conversion rate of any manager on the platform. Ingrid highlighted three institutional allocators in final due diligence, two of which came from iConnections introductions. They are renewing early at the Enterprise tier and want to explore API access for automated prospect syncing.",
+    "sentiment": "positive",
+    "topics": ["Renewal Discussion / Pricing / Contract", "Performance Discussion", "Platform Feedback / Feature Request"]
+  },
+  {
+    "id": "call-hq-002",
+    "clientId": "firm-halcyon",
+    "title": "Halcyon — Roadshow Planning",
+    "scheduledStart": "2026-03-05T10:00:00Z",
+    "duration": 2100,
+    "participants": [
+      { "name": "Olivia Rashidi", "email": "orashidi@iconnections.io", "affiliation": "internal" },
+      { "name": "Ingrid Sorenson", "email": "isorenson@halcyonquant.com", "affiliation": "external" },
+      { "name": "Elena Vasquez", "email": "evasquez@halcyonquant.com", "affiliation": "external" }
+    ],
+    "aiSummary": "Planning session for Halcyon's spring roadshow covering Boston, Chicago, and Singapore. Ingrid and Elena requested targeted allocator lists by geography and mandate type. Olivia identified 22 prospective allocators across the three cities. The team is particularly interested in connecting with insurance companies and pension funds looking for systematic, low-correlation strategies.",
+    "sentiment": "positive",
+    "topics": ["Event Planning / Global Alts", "New Introduction Requested"]
+  },
+
+  {
+    "id": "call-qv-001",
+    "clientId": "firm-quartzlight",
+    "title": "Quartzlight — Fund IV Fundraising Kickoff",
+    "scheduledStart": "2026-03-22T15:00:00Z",
+    "duration": 2400,
+    "participants": [
+      { "name": "Sofia Almeida", "email": "salmeida@iconnections.io", "affiliation": "internal" },
+      { "name": "Taylor Brennan", "email": "tbrennan@quartzlight.vc", "affiliation": "external" },
+      { "name": "Mei Yoshida", "email": "myoshida@quartzlight.vc", "affiliation": "external" }
+    ],
+    "aiSummary": "Kickoff meeting for Quartzlight's Fund IV campaign on the iConnections platform. Taylor and Mei outlined a $600M target with first close by Q3 2026. They want to connect with university endowments and family offices with VC allocation appetite. Sofia identified Larkspur Endowment and Mendoza Family Office as priority introductions, pending permission from both parties.",
+    "sentiment": "positive",
+    "topics": ["New Mandate / Allocation Plans", "New Introduction Requested"]
+  },
+  {
+    "id": "call-qv-002",
+    "clientId": "firm-quartzlight",
+    "title": "Quartzlight — Platform Engagement Review",
+    "scheduledStart": "2026-02-18T11:00:00Z",
+    "duration": 1800,
+    "participants": [
+      { "name": "Sofia Almeida", "email": "salmeida@iconnections.io", "affiliation": "internal" },
+      { "name": "Mei Yoshida", "email": "myoshida@quartzlight.vc", "affiliation": "external" }
+    ],
+    "aiSummary": "Mei reviewed platform usage stats with Sofia and expressed concern that their profile views had dropped 30% since November. Sofia investigated and found the drop correlated with a category filter change. The team agreed on profile updates to increase discoverability. Mei also flagged that their subscription renewal is coming up and they have budget constraints heading into the fundraise.",
+    "sentiment": "negative",
+    "topics": ["Platform Feedback / Feature Request", "Renewal Discussion / Pricing / Contract", "Escalation / Issue"]
+  }
+]

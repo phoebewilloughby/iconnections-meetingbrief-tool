@@ -1,0 +1,53 @@
+[
+  { "id": "c-pp-01", "firstName": "Robert", "lastName": "Haines", "email": "rhaines@pinehurstpension.org", "title": "Chief Investment Officer", "companyId": "firm-pinehurst", "phone": "+1 860 555 0142" },
+  { "id": "c-pp-02", "firstName": "Diana", "lastName": "Forsythe", "email": "dforsythe@pinehurstpension.org", "title": "Director of Investments", "companyId": "firm-pinehurst", "phone": "+1 860 555 0143" },
+  { "id": "c-pp-03", "firstName": "Kevin", "lastName": "Marsh", "email": "kmarsh@pinehurstpension.org", "title": "Senior Investment Analyst", "companyId": "firm-pinehurst", "phone": "+1 860 555 0144" },
+  { "id": "c-pp-04", "firstName": "Allison", "lastName": "Torres", "email": "atorres@pinehurstpension.org", "title": "Head of Manager Selection", "companyId": "firm-pinehurst", "phone": "+1 860 555 0145" },
+
+  { "id": "c-le-01", "firstName": "Margaret", "lastName": "Whitfield", "email": "mwhitfield@larkspurendowment.edu", "title": "Chief Investment Officer", "companyId": "firm-larkspur", "phone": "+1 617 555 0210" },
+  { "id": "c-le-02", "firstName": "Patrick", "lastName": "Sullivan", "email": "psullivan@larkspurendowment.edu", "title": "Portfolio Manager", "companyId": "firm-larkspur", "phone": "+1 617 555 0211" },
+  { "id": "c-le-03", "firstName": "Naomi", "lastName": "Cheng", "email": "ncheng@larkspurendowment.edu", "title": "Senior Investment Analyst", "companyId": "firm-larkspur", "phone": "+1 617 555 0212" },
+
+  { "id": "c-mf-01", "firstName": "Alejandro", "lastName": "Mendoza", "email": "amendoza@mendozacapital.com", "title": "Principal", "companyId": "firm-mendoza", "phone": "+1 305 555 0301" },
+  { "id": "c-mf-02", "firstName": "Claire", "lastName": "Dupont", "email": "cdupont@mendozacapital.com", "title": "Chief Investment Officer", "companyId": "firm-mendoza", "phone": "+1 305 555 0302" },
+  { "id": "c-mf-03", "firstName": "Victor", "lastName": "Reyes", "email": "vreyes@mendozacapital.com", "title": "Head of Alternative Investments", "companyId": "firm-mendoza", "phone": "+1 305 555 0303" },
+
+  { "id": "c-nc-01", "firstName": "Thomas", "lastName": "Bridger", "email": "tbridger@northwindcp.com", "title": "Managing Partner", "companyId": "firm-northwind", "phone": "+1 212 555 0401" },
+  { "id": "c-nc-02", "firstName": "Samantha", "lastName": "Kovacs", "email": "skovacs@northwindcp.com", "title": "Director of Investments", "companyId": "firm-northwind", "phone": "+1 212 555 0402" },
+  { "id": "c-nc-03", "firstName": "Daniel", "lastName": "Huang", "email": "dhuang@northwindcp.com", "title": "Portfolio Manager", "companyId": "firm-northwind", "phone": "+1 212 555 0403" },
+
+  { "id": "c-gi-01", "firstName": "Barbara", "lastName": "Thornton", "email": "bthorton@glenfieldinsurance.com", "title": "Chief Investment Officer", "companyId": "firm-glenfield", "phone": "+1 860 555 0501" },
+  { "id": "c-gi-02", "firstName": "Michael", "lastName": "Stafford", "email": "mstafford@glenfieldinsurance.com", "title": "Head of Alternatives", "companyId": "firm-glenfield", "phone": "+1 860 555 0502" },
+  { "id": "c-gi-03", "firstName": "Lauren", "lastName": "Park", "email": "lpark@glenfieldinsurance.com", "title": "Senior Portfolio Manager", "companyId": "firm-glenfield", "phone": "+1 860 555 0503" },
+  { "id": "c-gi-04", "firstName": "David", "lastName": "Elsworth", "email": "delsworth@glenfieldinsurance.com", "title": "Investment Analyst", "companyId": "firm-glenfield", "phone": "+1 860 555 0504" },
+
+  { "id": "c-cb-01", "firstName": "Priya", "lastName": "Nair", "email": "pnair@cobaltbridge.org", "title": "Chief Investment Officer", "companyId": "firm-cobalt", "phone": "+1 415 555 0601" },
+  { "id": "c-cb-02", "firstName": "Jason", "lastName": "Weller", "email": "jweller@cobaltbridge.org", "title": "Director of Investments", "companyId": "firm-cobalt", "phone": "+1 415 555 0602" },
+  { "id": "c-cb-03", "firstName": "Amara", "lastName": "Diallo", "email": "adiallo@cobaltbridge.org", "title": "Portfolio Manager — Impact", "companyId": "firm-cobalt", "phone": "+1 415 555 0603" },
+
+  { "id": "c-ac-01", "firstName": "Sarah", "lastName": "Lin", "email": "slin@aldercrestcapital.com", "title": "Head of Investor Relations", "companyId": "firm-aldercrest", "phone": "+1 212 555 0701" },
+  { "id": "c-ac-02", "firstName": "James", "lastName": "Harrington", "email": "jharrington@aldercrestcapital.com", "title": "Co-Founder & CEO", "companyId": "firm-aldercrest", "phone": "+1 212 555 0702" },
+  { "id": "c-ac-03", "firstName": "Nina", "lastName": "Osei", "email": "nosei@aldercrestcapital.com", "title": "Capital Formation Lead", "companyId": "firm-aldercrest", "phone": "+1 212 555 0703" },
+  { "id": "c-ac-04", "firstName": "Ben", "lastName": "Castillo", "email": "bcastillo@aldercrestcapital.com", "title": "Director of Business Development", "companyId": "firm-aldercrest", "phone": "+1 212 555 0704" },
+
+  { "id": "c-vm-01", "firstName": "Oliver", "lastName": "Ashford", "email": "oashford@vespermacro.com", "title": "Founder & Portfolio Manager", "companyId": "firm-vesper", "phone": "+44 20 5555 0801" },
+  { "id": "c-vm-02", "firstName": "Helena", "lastName": "Bauer", "email": "hbauer@vespermacro.com", "title": "Head of Investor Relations", "companyId": "firm-vesper", "phone": "+44 20 5555 0802" },
+  { "id": "c-vm-03", "firstName": "Rajan", "lastName": "Mehta", "email": "rmehta@vespermacro.com", "title": "Managing Partner", "companyId": "firm-vesper", "phone": "+44 20 5555 0803" },
+
+  { "id": "c-qv-01", "firstName": "Taylor", "lastName": "Brennan", "email": "tbrennan@quartzlight.vc", "title": "Managing Partner", "companyId": "firm-quartzlight", "phone": "+1 650 555 0901" },
+  { "id": "c-qv-02", "firstName": "Mei", "lastName": "Yoshida", "email": "myoshida@quartzlight.vc", "title": "Head of IR & Capital Formation", "companyId": "firm-quartzlight", "phone": "+1 650 555 0902" },
+  { "id": "c-qv-03", "firstName": "Liam", "lastName": "Carter", "email": "lcarter@quartzlight.vc", "title": "General Partner", "companyId": "firm-quartzlight", "phone": "+1 650 555 0903" },
+
+  { "id": "c-bc-01", "firstName": "Christine", "lastName": "Malone", "email": "cmalone@brightwatercredit.com", "title": "CEO & Co-Founder", "companyId": "firm-brightwater", "phone": "+1 312 555 1001" },
+  { "id": "c-bc-02", "firstName": "Andrew", "lastName": "Petrov", "email": "apetrov@brightwatercredit.com", "title": "Head of Investor Relations", "companyId": "firm-brightwater", "phone": "+1 312 555 1002" },
+  { "id": "c-bc-03", "firstName": "Grace", "lastName": "Holloway", "email": "gholloway@brightwatercredit.com", "title": "Director of Business Development", "companyId": "firm-brightwater", "phone": "+1 312 555 1003" },
+
+  { "id": "c-sr-01", "firstName": "William", "lastName": "Drake", "email": "wdrake@stonemoorpartners.com", "title": "Co-Founder & Managing Partner", "companyId": "firm-stonemoor", "phone": "+1 214 555 1101" },
+  { "id": "c-sr-02", "firstName": "Karen", "lastName": "Whitmore", "email": "kwhitmore@stonemoorpartners.com", "title": "Head of Capital Formation", "companyId": "firm-stonemoor", "phone": "+1 214 555 1102" },
+  { "id": "c-sr-03", "firstName": "Marcus", "lastName": "Reid", "email": "mreid@stonemoorpartners.com", "title": "Director of IR", "companyId": "firm-stonemoor", "phone": "+1 214 555 1103" },
+
+  { "id": "c-hq-01", "firstName": "Jonathan", "lastName": "Faber", "email": "jfaber@halcyonquant.com", "title": "CIO & Co-Founder", "companyId": "firm-halcyon", "phone": "+1 203 555 1201" },
+  { "id": "c-hq-02", "firstName": "Ingrid", "lastName": "Sorenson", "email": "isorenson@halcyonquant.com", "title": "Head of Investor Relations", "companyId": "firm-halcyon", "phone": "+1 203 555 1202" },
+  { "id": "c-hq-03", "firstName": "Arjun", "lastName": "Sharma", "email": "asharma@halcyonquant.com", "title": "Managing Partner", "companyId": "firm-halcyon", "phone": "+1 203 555 1203" },
+  { "id": "c-hq-04", "firstName": "Elena", "lastName": "Vasquez", "email": "evasquez@halcyonquant.com", "title": "Capital Formation Lead", "companyId": "firm-halcyon", "phone": "+1 203 555 1204" }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "eventId": "evt-miami-2026",
+    "eventName": "Global Alts Miami 2026",
+    "date": "2026-02-10",
+    "attendances": [
+      { "clientId": "firm-aldercrest",  "attendeesFromFirm": ["Sarah Lin", "Ben Castillo"],      "meetingsTaken": 14 },
+      { "clientId": "firm-pinehurst",   "attendeesFromFirm": ["Robert Haines", "Allison Torres"],"meetingsTaken": 9 },
+      { "clientId": "firm-vesper",      "attendeesFromFirm": ["Helena Bauer", "Rajan Mehta"],    "meetingsTaken": 11 },
+      { "clientId": "firm-mendoza",     "attendeesFromFirm": ["Claire Dupont", "Victor Reyes"],   "meetingsTaken": 8 },
+      { "clientId": "firm-larkspur",    "attendeesFromFirm": ["Margaret Whitfield", "Naomi Cheng"], "meetingsTaken": 10 },
+      { "clientId": "firm-northwind",   "attendeesFromFirm": ["Thomas Bridger", "Daniel Huang"],  "meetingsTaken": 16 },
+      { "clientId": "firm-glenfield",   "attendeesFromFirm": ["Michael Stafford", "Lauren Park"], "meetingsTaken": 12 },
+      { "clientId": "firm-brightwater", "attendeesFromFirm": ["Christine Malone", "Andrew Petrov", "Grace Holloway"], "meetingsTaken": 18 },
+      { "clientId": "firm-stonemoor",   "attendeesFromFirm": ["Karen Whitmore", "Marcus Reid"],   "meetingsTaken": 13 },
+      { "clientId": "firm-halcyon",     "attendeesFromFirm": ["Ingrid Sorenson", "Elena Vasquez"], "meetingsTaken": 17 }
+    ]
+  },
+  {
+    "eventId": "evt-hk-2025",
+    "eventName": "iConnections Hong Kong 2025",
+    "date": "2025-09-18",
+    "attendances": [
+      { "clientId": "firm-halcyon",     "attendeesFromFirm": ["Jonathan Faber", "Ingrid Sorenson"], "meetingsTaken": 12 },
+      { "clientId": "firm-vesper",      "attendeesFromFirm": ["Oliver Ashford", "Rajan Mehta"],     "meetingsTaken": 9 },
+      { "clientId": "firm-northwind",   "attendeesFromFirm": ["Thomas Bridger"],                    "meetingsTaken": 7 },
+      { "clientId": "firm-brightwater", "attendeesFromFirm": ["Andrew Petrov"],                     "meetingsTaken": 6 }
+    ]
+  },
+  {
+    "eventId": "evt-switz-2025",
+    "eventName": "Global Alts Switzerland 2025",
+    "date": "2025-06-12",
+    "attendances": [
+      { "clientId": "firm-vesper",      "attendeesFromFirm": ["Oliver Ashford", "Helena Bauer"],    "meetingsTaken": 10 },
+      { "clientId": "firm-aldercrest",  "attendeesFromFirm": ["James Harrington", "Sarah Lin"],     "meetingsTaken": 8 },
+      { "clientId": "firm-larkspur",    "attendeesFromFirm": ["Margaret Whitfield"],                "meetingsTaken": 6 },
+      { "clientId": "firm-halcyon",     "attendeesFromFirm": ["Ingrid Sorenson", "Arjun Sharma"],   "meetingsTaken": 11 },
+      { "clientId": "firm-northwind",   "attendeesFromFirm": ["Samantha Kovacs", "Daniel Huang"],   "meetingsTaken": 9 }
+    ]
+  }
+]

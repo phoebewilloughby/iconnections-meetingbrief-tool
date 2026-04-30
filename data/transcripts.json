@@ -1,0 +1,84 @@
+{
+  "call-ac-001": {
+    "callId": "call-ac-001",
+    "segments": [
+      { "speaker": "Phoebe Willoughby", "startMs": 0, "text": "Hi Sarah, thanks for making time today. How is everything at Aldercrest going?" },
+      { "speaker": "Sarah Lin", "startMs": 8000, "text": "Good, busy. We just closed a sleeve from a Midwestern pension which was a big milestone for us. Team is in great shape." },
+      { "speaker": "Phoebe Willoughby", "startMs": 18000, "text": "Congratulations — that is a fantastic outcome. How much did the warm intros on the platform contribute to that close?" },
+      { "speaker": "Sarah Lin", "startMs": 28000, "text": "Honestly, the warm intros have been the biggest unlock for us this year. We have become much more selective about which allocators we pursue, and your filters helped us get in front of the right people quickly." },
+      { "speaker": "Phoebe Willoughby", "startMs": 45000, "text": "Really glad to hear that. Two things I wanted to make sure we cover today — first, early access for Global Alts Miami opens next week for Enterprise members. You will have priority slot booking before it opens to the wider attendee pool." },
+      { "speaker": "Sarah Lin", "startMs": 58000, "text": "Perfect timing. Ben has been asking about that. How many slots do we get with our tier?" },
+      { "speaker": "Phoebe Willoughby", "startMs": 65000, "text": "With Enterprise you get 20 pre-scheduled meeting slots plus unlimited open-hour availability. I also have three allocator profiles I specifically want you to look at before slot booking opens — a public pension from New England, a mid-sized endowment, and a family office that just hired a new CIO." },
+      { "speaker": "Sarah Lin", "startMs": 82000, "text": "Yes please. Can you send those profiles over today? We want to review them before the team call on Friday." },
+      { "speaker": "Phoebe Willoughby", "startMs": 90000, "text": "Will do — I will send them right after this call. Second thing — any feedback on the new analytics dashboard we rolled out last month? I know you flagged some issues with the engagement scores a few months back." },
+      { "speaker": "Sarah Lin", "startMs": 104000, "text": "Yes, the analytics are much better now. We are actively using the engagement scores to prioritize outreach. The one thing that is still missing is automatic meeting outcome tagging. Right now we have to manually note whether a meeting progressed to due diligence or not." },
+      { "speaker": "Nina Osei", "startMs": 120000, "text": "To add on that — it would also be great to see the full meeting funnel in one view. Like from first introduction all the way through to a capital commitment. That would make our QBR reporting to the partners so much easier." },
+      { "speaker": "Phoebe Willoughby", "startMs": 134000, "text": "That is excellent feedback and I will pass both of those to product. The funnel view is actually something we have on the roadmap for Q3. Anything else on your mind heading into the quarter?" },
+      { "speaker": "Sarah Lin", "startMs": 148000, "text": "Just making sure we are aligned on the three allocator profiles before Miami. If those look right, we are in good shape." },
+      { "speaker": "Phoebe Willoughby", "startMs": 157000, "text": "Absolutely. I will send those over today and we can connect briefly on Friday if you have any questions after reviewing them. Thanks for the time, Sarah — really looking forward to Miami." },
+      { "speaker": "Sarah Lin", "startMs": 168000, "text": "Same. Talk soon." }
+    ]
+  },
+  "call-vm-001": {
+    "callId": "call-vm-001",
+    "segments": [
+      { "speaker": "Phoebe Willoughby", "startMs": 0, "text": "Good morning Oliver, Helena. Thanks for joining. Wanted to make sure we had time to talk through the renewal before things get busy heading into Q2." },
+      { "speaker": "Helena Bauer", "startMs": 10000, "text": "Of course. We have been very pleased with the platform this year — the quality of introductions has been markedly better than last year." },
+      { "speaker": "Oliver Ashford", "startMs": 20000, "text": "I would echo that. Two of the family office relationships from Global Alts Switzerland are now in active due diligence. That is a meaningful result for us." },
+      { "speaker": "Phoebe Willoughby", "startMs": 32000, "text": "That is exactly what we aim for — and those are relationships that would have taken you a full conference cycle to build from scratch. On the renewal, I wanted to walk through the Premium tier benefits and also flag one thing Helena raised in her email about the EM sleeve." },
+      { "speaker": "Helena Bauer", "startMs": 48000, "text": "Yes. We are formally launching the emerging markets rates and FX sleeve next month. My question is whether that is considered a separate product for subscription purposes, or whether it sits under the existing Vesper account." },
+      { "speaker": "Phoebe Willoughby", "startMs": 60000, "text": "Good question. Under our current terms, strategies within the same legal entity are covered under one subscription. The EM sleeve, as long as it is run by the same Vesper entity, would be included. I will confirm that with our legal team and send you written confirmation." },
+      { "speaker": "Helena Bauer", "startMs": 78000, "text": "That is helpful. The last thing on our side is ensuring the EM sleeve has good profile visibility before the launch. We want allocators who have EM appetite to be able to find us easily." },
+      { "speaker": "Phoebe Willoughby", "startMs": 90000, "text": "Absolutely. I will work with you on the profile update to make sure the right mandate tags and allocator-type preferences are set. We can turn around a first draft profile update within the week." },
+      { "speaker": "Oliver Ashford", "startMs": 104000, "text": "That works well. I think Helena and Rajan can handle the profile side. From my end I just wanted to say the platform has genuinely improved our capital formation workflow. The team is happy." },
+      { "speaker": "Phoebe Willoughby", "startMs": 118000, "text": "That means a lot to hear directly from you, Oliver. We will get the renewal paperwork over by end of week and confirm the EM sleeve coverage in writing. Looking forward to continuing to work together." }
+    ]
+  },
+  "call-mf-003": {
+    "callId": "call-mf-003",
+    "segments": [
+      { "speaker": "Phoebe Willoughby", "startMs": 0, "text": "Hi Claire, thanks for taking the time. I wanted to check in and make sure everything is on track heading into your renewal period." },
+      { "speaker": "Claire Dupont", "startMs": 10000, "text": "Phoebe, I appreciate you reaching out. I want to be straightforward with you — I have some concerns I want to put on the table." },
+      { "speaker": "Phoebe Willoughby", "startMs": 20000, "text": "Of course, please go ahead. That is exactly what these calls are for." },
+      { "speaker": "Claire Dupont", "startMs": 25000, "text": "Several of the manager recommendations over the last quarter were not a good fit for us. We had three meetings where the manager did not understand our liquidity requirements at all — we typically need quarterly liquidity at minimum, and two of those managers run two-year lock-up structures." },
+      { "speaker": "Phoebe Willoughby", "startMs": 42000, "text": "That is a fair point and I apologize for those mismatches. Our filters should be catching liquidity requirements — can you tell me whether those were from the curated recommendation feed or from your own searches?" },
+      { "speaker": "Claire Dupont", "startMs": 56000, "text": "Two were from recommendations you sent me directly, and one was from the feed. But honestly the bigger concern is that we are starting to evaluate Albourne Partners as an alternative for manager sourcing. They offer a more bespoke screening process." },
+      { "speaker": "Phoebe Willoughby", "startMs": 72000, "text": "I understand, and I want to address both issues. For the immediate term, I would like to schedule a filter-refinement session with you and Victor to rebuild your preference profile from scratch. For the longer term, I want to make sure iConnections is delivering the bespoke experience you need — not just the platform defaults." },
+      { "speaker": "Claire Dupont", "startMs": 90000, "text": "I appreciate the offer. I am not ready to make a decision on the renewal yet. Let us do the filter session and see if the next set of introductions is better calibrated." },
+      { "speaker": "Phoebe Willoughby", "startMs": 104000, "text": "Completely fair. I will send a calendar invite for next week. I am confident we can turn this around." }
+    ]
+  },
+  "call-pp-001": {
+    "callId": "call-pp-001",
+    "segments": [
+      { "speaker": "Phoebe Willoughby", "startMs": 0, "text": "Good afternoon Robert, Diana, Allison. Thanks for making the time for the quarterly review. I know schedules are busy this time of year." },
+      { "speaker": "Robert Haines", "startMs": 12000, "text": "Happy to be here. A lot to cover. Let me start with where we are on the alts expansion — as you know we have increased our target to 22% of total assets." },
+      { "speaker": "Diana Forsythe", "startMs": 24000, "text": "The board approved the higher target at the February meeting. We now have approximately $4.2B to deploy into alternatives over the next 24 months. The priority is direct lending and long/short equity." },
+      { "speaker": "Phoebe Willoughby", "startMs": 40000, "text": "That is very helpful context. I actually have two managers in mind that I wanted to present to you today. The first is Brightwater Credit, which has been one of our most active managers for direct lending allocations from institutional pension funds. The second is Aldercrest Capital — long/short equity with a strong industrials and technology focus." },
+      { "speaker": "Allison Torres", "startMs": 60000, "text": "I have seen Aldercrest in our screening database. What is their minimum ticket size?" },
+      { "speaker": "Phoebe Willoughby", "startMs": 70000, "text": "Aldercrest's minimum is $25M for new relationships, but for a platform relationship like yours they would likely be flexible. I can confirm that directly with Sarah Lin who runs their IR." },
+      { "speaker": "Robert Haines", "startMs": 84000, "text": "Good. Allison, put both on the shortlist for the summer diligence cycle. Phoebe, I also wanted to ask about the analytics we can pull from the platform — specifically our full engagement history with managers we have met through iConnections." },
+      { "speaker": "Phoebe Willoughby", "startMs": 100000, "text": "Absolutely. Diana, I will pull together a full engagement report for the last 18 months and have it to you by end of next week. It will show every meeting, follow-up, and current status for all 14 manager relationships you have through the platform." },
+      { "speaker": "Diana Forsythe", "startMs": 116000, "text": "That would be very useful for our board reporting." },
+      { "speaker": "Phoebe Willoughby", "startMs": 124000, "text": "Anything else on the Q1 side before we look ahead to events?" },
+      { "speaker": "Robert Haines", "startMs": 130000, "text": "Global Alts Miami — we want to be there. Same configuration as last year, probably three or four of us. What is the process?" },
+      { "speaker": "Phoebe Willoughby", "startMs": 140000, "text": "I will send you the registration link today. As an Enterprise client you get priority booking before general registration opens. I would also recommend pre-scheduling at least eight manager meetings before you arrive so your days are structured." }
+    ]
+  },
+  "call-le-001": {
+    "callId": "call-le-001",
+    "segments": [
+      { "speaker": "Phoebe Willoughby", "startMs": 0, "text": "Good afternoon Margaret, Patrick, Naomi. Thanks for making time for the annual review. It has been a strong year for Larkspur from what I can see on the platform." },
+      { "speaker": "Margaret Whitfield", "startMs": 14000, "text": "It has been a good year overall. We hit our CPI plus five percent target, which is always the north star. Alternatives drove about 340 basis points of that outperformance." },
+      { "speaker": "Patrick Sullivan", "startMs": 28000, "text": "The VC portfolio was a big part of the story. We had three marks that drove material upside. Looking ahead we want to increase our VC allocation by another three percentage points over the next two fiscal years." },
+      { "speaker": "Phoebe Willoughby", "startMs": 44000, "text": "That is great context. On the VC side, Quartzlight Ventures is raising their Fund IV with a $600 million target and first close expected by Q3 2026. You had a meeting with Mei Yoshida last fall that Naomi flagged as promising." },
+      { "speaker": "Naomi Cheng", "startMs": 60000, "text": "Yes, that meeting went well. We want a second meeting with the full GP team before the end of April. Can you facilitate an introduction directly to Taylor Brennan?" },
+      { "speaker": "Phoebe Willoughby", "startMs": 72000, "text": "Absolutely. I know Taylor well. I will send an introduction email today and copy you and Mei on a warm intro note." },
+      { "speaker": "Margaret Whitfield", "startMs": 84000, "text": "There is one feedback item I want to raise on the platform. The reporting on total meeting outcomes is still not good enough. We track all our manager meetings in our own system because the iConnections dashboard does not show the full picture from first introduction to diligence to investment." },
+      { "speaker": "Phoebe Willoughby", "startMs": 100000, "text": "That is feedback I am hearing from multiple clients and I have escalated it as a priority for the product roadmap. I cannot promise a timeline but I do believe a full funnel reporting feature will be available within the calendar year." },
+      { "speaker": "Patrick Sullivan", "startMs": 116000, "text": "Good. That would materially change how much we rely on the platform for tracking." },
+      { "speaker": "Phoebe Willoughby", "startMs": 126000, "text": "Noted. Let me also flag that Larkspur is one of the allocators that Aldercrest Capital has specifically asked to connect with — they know you have a strong endowment model background and they think there is a good fit. Would that be a welcome introduction?" },
+      { "speaker": "Naomi Cheng", "startMs": 142000, "text": "Yes, add them to the queue. We can look at them for the hedge fund sleeve." }
+    ]
+  }
+}

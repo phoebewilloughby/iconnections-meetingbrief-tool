@@ -1,0 +1,269 @@
+[
+  {
+    "id": "note-ac-001",
+    "companyId": "firm-aldercrest",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-04-18T15:45:00Z",
+    "type": "call",
+    "content": "## Q2 Check-in Summary\n\nSarah Lin confirmed the $400M sleeve close from a Midwestern pension. Warm intros via iConnections were cited as a key driver — team is very engaged with the platform.\n\n**Action items:**\n- Send three allocator profiles (Pinehurst, Larkspur, Mendoza) before EOD today\n- Pass meeting-outcome tagging request to product\n- Confirm Enterprise slot allocation for Global Alts Miami"
+  },
+  {
+    "id": "note-ac-002",
+    "companyId": "firm-aldercrest",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-02-25T14:30:00Z",
+    "type": "call",
+    "content": "## Post-Miami Debrief\n\nAldercrest took 14 meetings at Global Alts Miami. Sarah identified 3 as strong pipeline prospects:\n\n1. **Pinehurst Pension Trust** — CIO Robert Haines expressed strong interest in L/S equity. Follow-up call already scheduled.\n2. **Larkspur Endowment** — Naomi Cheng noted fit with their hedge fund sleeve. Second meeting requested.\n3. **Unknown FO** — Sarah didn't disclose name yet, but described as a $3B+ family office focused on tech-concentrated equity.\n\nPlatform scheduling was highlighted as significantly smoother than last year. No complaints."
+  },
+  {
+    "id": "note-ac-003",
+    "companyId": "firm-aldercrest",
+    "authorId": "csm-james",
+    "createdAt": "2025-12-10T16:00:00Z",
+    "type": "general",
+    "content": "## Observation — Analytics Bug Incident\n\nSarah reported incorrect engagement scores for three allocator profiles over a two-week window in late November. Root cause was a data pipeline regression in the engagement scoring model.\n\nIncident resolved within 24 hours of report. Sarah appreciated the fast response. No indication this will affect renewal — relationship remains strong.\n\n**Flag:** Ensure incident is documented in the product retrospective."
+  },
+  {
+    "id": "note-ac-004",
+    "companyId": "firm-aldercrest",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-04-17T09:00:00Z",
+    "type": "meeting_prep",
+    "content": "## Meeting Prep — Q2 Check-in with Sarah Lin\n\n**Key things to cover:**\n1. Global Alts Miami early access — confirm they know slot booking opens next week\n2. Share three allocator profiles: Pinehurst, Larkspur, Mendoza\n3. Analytics dashboard feedback — did the November fix resolve their issues?\n4. Any new hires or team changes we should know about?\n\n**Background:** Aldercrest just closed a $400M sleeve from a Midwestern pension (news from LinkedIn, not confirmed on call). Good opening topic."
+  },
+  {
+    "id": "note-ac-005",
+    "companyId": "firm-aldercrest",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-02-05T16:30:00Z",
+    "type": "call",
+    "content": "## Renewal Prep Summary\n\nJames Harrington and Sarah Lin both on the call. Enterprise upgrade discussion went well — they want:\n- Analytics suite with engagement scoring\n- Priority event slots\n- Dedicated CSM support\n\nProposal sent 6 Feb. Expecting counter within 10 days. No red flags on renewal."
+  },
+
+  {
+    "id": "note-pp-001",
+    "companyId": "firm-pinehurst",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-03-28T16:00:00Z",
+    "type": "call",
+    "content": "## Q1 Review Summary\n\nMajor news: Pinehurst board approved increase in alternatives target to 22% ($4.2B to deploy over 24 months). Direct lending and L/S equity are priorities.\n\n**Introductions requested:**\n- Brightwater Credit (direct lending)\n- Aldercrest Capital (L/S equity)\n\nDiana wants a full 18-month engagement history report by end of next week. Robert confirmed four people attending Global Alts Miami."
+  },
+  {
+    "id": "note-pp-002",
+    "companyId": "firm-pinehurst",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-01-08T10:00:00Z",
+    "type": "general",
+    "content": "## Observation — Board Mandate Change\n\nHeard through the alternatives community (confirmed by Robert on the Dec renewal call) that Pinehurst's board approved a significant increase in their alternatives allocation target. This is a major opportunity for platform-facilitated introductions.\n\nPriority action: schedule a dedicated strategy call with Robert and Diana to map their new requirements to our manager universe."
+  },
+  {
+    "id": "note-pp-003",
+    "companyId": "firm-pinehurst",
+    "authorId": "csm-phoebe",
+    "createdAt": "2025-12-18T16:30:00Z",
+    "type": "call",
+    "content": "## Renewal Discussion Summary\n\nSmooth renewal conversation. Robert confirmed satisfaction with platform ROI. Three highlights he cited:\n1. Warm-introduction workflow significantly reduces cold-call overhead\n2. Conference scheduling tool saved meaningful preparation time\n3. Manager filtering by strategy and liquidity improved shortlisting quality\n\nKevin flagged need for better portfolio-level reporting. Noted for product roadmap. **Renewal confirmed for January at current Enterprise terms.**"
+  },
+  {
+    "id": "note-pp-004",
+    "companyId": "firm-pinehurst",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-03-27T09:00:00Z",
+    "type": "meeting_prep",
+    "content": "## Meeting Prep — Q1 Review with Robert Haines\n\n**Agenda items:**\n1. Alternatives expansion — confirm the 22% target and deployment timeline\n2. Present Brightwater Credit and Aldercrest as intro candidates\n3. Platform analytics report request — Diana has been asking about this\n4. Global Alts Miami registration — confirm attendance and meeting slots\n\n**Watch:** Kevin Marsh recently posted about portfolio construction methodology on LinkedIn. Might be worth engaging him on the analytics question specifically."
+  },
+
+  {
+    "id": "note-vm-001",
+    "companyId": "firm-vesper",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-04-02T11:30:00Z",
+    "type": "call",
+    "content": "## Renewal Call Summary\n\nVery positive call. Oliver Ashford opened by noting two Global Alts Switzerland family office relationships are now in active due diligence — high satisfaction.\n\n**Key item:** Helena raised question about whether their new EM sleeve is covered under the existing Vesper subscription. Confirmed it is under same legal entity — need to send written confirmation from legal team.\n\n**Action:** Update Vesper's profile tags before the EM sleeve launch in May. Schedule follow-up with Helena and Rajan for profile update."
+  },
+  {
+    "id": "note-vm-002",
+    "companyId": "firm-vesper",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-03-10T12:30:00Z",
+    "type": "call",
+    "content": "## EM Sleeve Launch Strategy\n\nRajan Mehta walked through the new strategy: EM rates and FX, discretionary macro approach. Target return 12-15% net with low correlation to equity beta.\n\nSix allocators identified for warm introductions before Miami:\n- Three family offices with EM mandate appetite\n- Two university endowments expanding to non-US macro\n- One insurance company with global fixed income exposure\n\nIntroduction plan to be executed over 4-6 weeks before the conference."
+  },
+  {
+    "id": "note-vm-003",
+    "companyId": "firm-vesper",
+    "authorId": "csm-phoebe",
+    "createdAt": "2025-10-21T14:00:00Z",
+    "type": "email",
+    "content": "## Email Thread Summary — Allocator Match Quality\n\nHelena followed up on the Q3 check-in via email, noting that one introduction in September had a significant liquidity mismatch (allocator wanted monthly liquidity, Vesper's main fund has a 12-month lock). Phoebe acknowledged the gap and refined Vesper's match filters to exclude allocators with sub-quarterly liquidity requirements.\n\nResolved without escalation. Helena appreciated the quick fix."
+  },
+
+  {
+    "id": "note-mf-001",
+    "companyId": "firm-mendoza",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-03-05T12:30:00Z",
+    "type": "call",
+    "content": "## Escalation Note — Match Quality Concerns\n\nClaire Dupont raised three recent manager mismatches where recommended managers had incompatible liquidity structures. Two were from curated lists Phoebe sent directly — these need review.\n\n**Risk flag:** Claire mentioned evaluating Albourne Partners. This is a serious churn signal. Mendoza is a $72K ARR Premium account.\n\n**Immediate actions:**\n1. Schedule filter-refinement session with Claire and Victor for week of 10 March\n2. Review and correct the match algorithm settings for the Mendoza account\n3. Escalate to product: manual override for liquidity preference in curated recs"
+  },
+  {
+    "id": "note-mf-002",
+    "companyId": "firm-mendoza",
+    "authorId": "csm-phoebe",
+    "createdAt": "2025-11-19T16:30:00Z",
+    "type": "call",
+    "content": "## New CIO Intro — Claire Dupont\n\nVery positive introductory call with Claire, the new CIO. Former Goldman partner — extremely sophisticated investor with concentrated, high-conviction philosophy.\n\nKey takeaways:\n- She is rebuilding the manager relationships from scratch\n- Wants co-investment rights on any new PE relationships\n- Interested in macro, direct lending, and select long/short equity managers\n- Quarterly liquidity is a hard requirement for most of the hedge fund bucket\n\nStrong relationship to build. Alejandro endorses her fully."
+  },
+  {
+    "id": "note-mf-003",
+    "companyId": "firm-mendoza",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-01-20T17:30:00Z",
+    "type": "call",
+    "content": "## Global Alts Prep Summary\n\nClaire and Victor both attending. Victor has tight availability — max 8 meetings across the two days. Claire wants to pre-vet all meeting partners.\n\n**Filters for introductions:**\n- PE managers: $1-5B AUM, co-investment offered, track record 5+ years\n- Hedge funds: quarterly liquidity, L/S equity or macro preferred\n\nAgreed to send shortlist of 10 managers by 27 January for Victor's review."
+  },
+
+  {
+    "id": "note-le-001",
+    "companyId": "firm-larkspur",
+    "authorId": "csm-phoebe",
+    "createdAt": "2026-04-10T16:00:00Z",
+    "type": "call",
+    "content": "## Annual Review Summary\n\nStrong year for Larkspur — hit CPI+5% target, alternatives up materially. VC remains the priority with plan to increase allocation by 3 percentage points.\n\n**Key requests:**\n- Second meeting with Quartzlight Ventures (Taylor Brennan) — warm intro email today\n- Introduction to Aldercrest for the hedge fund sleeve\n- Full-funnel reporting feature (escalated to product as a priority)\n\n**Tension point:** Margaret is frustrated with the current platform reporting limitations. This is becoming a common theme across large endowments."
+  },
+  {
+    "id": "note-le-002",
+    "companyId": "firm-larkspur",
+    "authorId": "csm-phoebe",
+    "createdAt": "2025-11-22T16:00:00Z",
+    "type": "call",
+    "content": "## VC Manager Shortlisting\n\nNaomi reviewed five VC managers surfaced through the platform. Narrowed to two: Quartzlight Ventures and a Midwest deep-tech fund.\n\nQuartzlight warm intro requested within three weeks — set up for early December. Naomi has specific focus on B2B software and climate tech, which aligns well with Quartzlight's portfolio."
+  },
+  {
+    "id": "note-le-003",
+    "companyId": "firm-larkspur",
+    "authorId": "csm-phoebe",
+    "createdAt": "2025-09-15T14:30:00Z",
+    "type": "general",
+    "content": "## Mid-Year Observation\n\nMargaret flagged in the September call that the platform is most useful for VC and emerging manager discovery but less useful for hedge fund introductions — limited breadth in macro strategies.\n\nThis is a legitimate gap we have in our manager universe. Need to prioritise recruiting macro managers (systematic and discretionary) to improve value for endowment clients like Larkspur."
+  },
+
+  {
+    "id": "note-nc-001",
+    "companyId": "firm-northwind",
+    "authorId": "csm-marcus",
+    "createdAt": "2026-04-05T15:30:00Z",
+    "type": "call",
+    "content": "## Q1 Business Review Summary\n\nStrong quarter for Northwind — four manager meetings progressed to full due diligence. Thomas was in good spirits.\n\nSamantha's request for mandate-tagging in the meeting dashboard — escalated to product. This is the second quarter in a row they've asked for it.\n\n**Watch:** Daniel Huang mentioned a new $800M infrastructure mandate. Scheduled a dedicated call to map it against available managers."
+  },
+  {
+    "id": "note-nc-002",
+    "companyId": "firm-northwind",
+    "authorId": "csm-marcus",
+    "createdAt": "2026-02-14T11:30:00Z",
+    "type": "call",
+    "content": "## Infrastructure Mandate — New Opportunity\n\nDaniel walked through the new $800M infra mandate. Details:\n- Mid-market infrastructure equity and debt co-investments\n- Target yield: 8-10% net with inflation linkage\n- Mandate timeline: deploy over 18-24 months\n\nIdentified 8 potential managers on the platform. Agreed to introduce in two tranches — first 4 by 28 February, next 4 by 31 March."
+  },
+
+  {
+    "id": "note-gi-001",
+    "companyId": "firm-glenfield",
+    "authorId": "csm-james",
+    "createdAt": "2026-03-18T15:30:00Z",
+    "type": "call",
+    "content": "## Alternatives Expansion Brief\n\nGlenfield is moving from 8% to 14% alternatives. Key constraints: NAIC capital charges mean they need investment-grade private credit or insurance-dedicated structures. Hedge fund strategies need to be low-net to limit VaR.\n\n**Shortlist requested:**\n- 3-4 private credit managers with IG-equivalent portfolios\n- 2 infrastructure managers with utility/energy exposure\n- 2 low-net hedge funds (systematic preferred)\n\nWill send shortlist by 25 March."
+  },
+  {
+    "id": "note-gi-002",
+    "companyId": "firm-glenfield",
+    "authorId": "csm-james",
+    "createdAt": "2026-01-28T16:30:00Z",
+    "type": "call",
+    "content": "## Onboarding — Lauren and David\n\nBoth new team members onboarded to the platform. Lauren Park comes from a Morgan Stanley asset management background — she is a fast learner, asked good questions about manager screening criteria. David Elsworth is quantitative and focused heavily on data export and API capabilities.\n\nAction: check with product on whether we can offer a limited API preview to institutional clients like Glenfield."
+  },
+
+  {
+    "id": "note-cb-001",
+    "companyId": "firm-cobalt",
+    "authorId": "csm-olivia",
+    "createdAt": "2026-03-20T12:30:00Z",
+    "type": "call",
+    "content": "## Impact Strategy Discussion\n\nCobalt Bridge has updated their investment policy — all new alternative manager relationships need a documented impact thesis. Amara is building a climate tech VC sleeve.\n\nThree Quartzlight-adjacent managers identified with measurable emissions targets. Will send introductions by end of March.\n\n**Note:** Cobalt is on Standard tier but this level of activity suggests they would benefit from Premium. Raised in the Q4 upgrade conversation — follow up."
+  },
+  {
+    "id": "note-cb-002",
+    "companyId": "firm-cobalt",
+    "authorId": "csm-olivia",
+    "createdAt": "2025-10-08T15:30:00Z",
+    "type": "call",
+    "content": "## Standard Tier Review\n\nJason confirmed that the meeting-request quota on Standard is now a bottleneck — they have had to delay introduction requests twice this quarter due to quota limits.\n\nUpgrade proposal for Premium sent 10 Oct. Annual cost increase: $36K → $72K. Jason said he needs board approval for budget increases above $25K — will present at November board meeting."
+  },
+
+  {
+    "id": "note-bc-001",
+    "companyId": "firm-brightwater",
+    "authorId": "csm-james",
+    "createdAt": "2026-02-10T16:30:00Z",
+    "type": "call",
+    "content": "## Fund III Close — Relationship Win\n\nBrightwater closed Fund III at $2.2B, oversubscribed. Christine credited three LP commitments to iConnections introductions: one public pension (likely Pinehurst or similar), and two insurance companies.\n\nChristine and Andrew explicitly said they want to maintain exclusive access to the platform for Fund IV fundraising. This is a strong renewal signal.\n\n**Opportunity:** Position Brightwater as a case study for our direct lending manager success stories."
+  },
+  {
+    "id": "note-bc-002",
+    "companyId": "firm-brightwater",
+    "authorId": "csm-james",
+    "createdAt": "2026-03-28T11:30:00Z",
+    "type": "call",
+    "content": "## Q1 Pipeline Review\n\n18 active allocator relationships, 6 originated from iConnections. Strong conversion rate.\n\nAndrew and Grace want a full-funnel tracking feature — from first intro to capital commitment — within the platform. This is the same feedback I am hearing from Northwind and Larkspur.\n\n**Action:** Compile a formal product request from three clients and submit to the PM team with business case."
+  },
+
+  {
+    "id": "note-sr-001",
+    "companyId": "firm-stonemoor",
+    "authorId": "csm-marcus",
+    "createdAt": "2026-01-12T15:30:00Z",
+    "type": "call",
+    "content": "## 2026 Event Strategy\n\nStoremoor attending Global Alts Miami — Karen's focus list:\n- 6 insurance companies with real estate appetite (Sun Belt, industrial, multifamily)\n- 4 public pensions targeting real assets diversification\n\nMarcus Reid requested a one-pager on platform meeting pre-qualification. Will draft and send by 20 Jan."
+  },
+  {
+    "id": "note-sr-002",
+    "companyId": "firm-stonemoor",
+    "authorId": "csm-marcus",
+    "createdAt": "2025-11-04T16:30:00Z",
+    "type": "call",
+    "content": "## Team Change — New IR Lead\n\nKaren Whitmore onboarded as Head of Capital Formation, replacing the previous IR lead. Background from Blackstone LP Relations — very strong pedigree.\n\nScheduled full platform onboarding for week of 17 Nov. Updated primary contact in the system. William asked that Karen be the day-to-day contact going forward — updated account settings accordingly."
+  },
+
+  {
+    "id": "note-hq-001",
+    "companyId": "firm-halcyon",
+    "authorId": "csm-olivia",
+    "createdAt": "2026-04-15T15:30:00Z",
+    "type": "call",
+    "content": "## Q4 Review — Exceptional Performance\n\nHalcyon has the highest meeting-request conversion rate on the entire platform. Jonathan attributed it to precise match targeting and the warm introduction format.\n\nThree institutional allocators in final due diligence, two from iConnections intros. This could represent $600M+ in new AUM.\n\nThey are renewing early at Enterprise and want to discuss API access for automated prospect syncing. Flagged to product as a high-priority API partnership opportunity."
+  },
+  {
+    "id": "note-hq-002",
+    "companyId": "firm-halcyon",
+    "authorId": "csm-olivia",
+    "createdAt": "2026-03-05T11:30:00Z",
+    "type": "call",
+    "content": "## Spring Roadshow Planning\n\nIngrid and Elena planning Boston → Chicago → Singapore roadshow in May-June. 22 prospective allocators identified across all three cities:\n- Boston: 8 endowments and foundations\n- Chicago: 7 insurance companies and public pensions\n- Singapore: 7 sovereign wealth fund-adjacent family offices\n\nIngrid wants targeted introductions 2-3 weeks before each stop. Will structure outreach accordingly."
+  },
+
+  {
+    "id": "note-qv-001",
+    "companyId": "firm-quartzlight",
+    "authorId": "csm-sofia",
+    "createdAt": "2026-03-22T16:30:00Z",
+    "type": "call",
+    "content": "## Fund IV Kickoff\n\nTaylor and Mei confirmed $600M target for Fund IV, first close by Q3 2026. They want to focus on endowments and family offices.\n\nPriority introductions identified:\n- Larkspur Endowment (Naomi Cheng very interested)\n- Mendoza Family Office (pending approval from Claire)\n\nNote: Mendoza has a Standard account currently but this fundraise could drive an upgrade."
+  },
+  {
+    "id": "note-qv-002",
+    "companyId": "firm-quartzlight",
+    "authorId": "csm-sofia",
+    "createdAt": "2026-02-18T12:30:00Z",
+    "type": "general",
+    "content": "## At-Risk Flag — Profile Visibility Drop\n\nMei flagged a 30% drop in profile views since November. Root cause: a category filter change on 15 November that reduced Quartzlight's appearance in standard VC searches.\n\nFix applied 20 Feb. Views recovering as of week 3. Mei appreciated the quick resolution but flagged that their subscription renewal is under budget pressure heading into the Fund IV raise.\n\n**Risk:** Quartzlight may seek a lower-tier plan or pause subscription during the raise. Monitor closely."
+  }
+]

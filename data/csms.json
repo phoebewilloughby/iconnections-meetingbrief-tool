@@ -1,0 +1,42 @@
+[
+  {
+    "id": "csm-phoebe",
+    "name": "Phoebe Willoughby",
+    "email": "pwilloughby@iconnections.io",
+    "role": "Senior CSM",
+    "avatarColor": "#6A2B7E",
+    "initials": "PW"
+  },
+  {
+    "id": "csm-marcus",
+    "name": "Marcus Chen",
+    "email": "mchen@iconnections.io",
+    "role": "CSM",
+    "avatarColor": "#5B7FB1",
+    "initials": "MC"
+  },
+  {
+    "id": "csm-olivia",
+    "name": "Olivia Rashidi",
+    "email": "orashidi@iconnections.io",
+    "role": "CSM",
+    "avatarColor": "#3F8A8A",
+    "initials": "OR"
+  },
+  {
+    "id": "csm-james",
+    "name": "James Okafor",
+    "email": "jokafor@iconnections.io",
+    "role": "Lead CSM",
+    "avatarColor": "#C19A4A",
+    "initials": "JO"
+  },
+  {
+    "id": "csm-sofia",
+    "name": "Sofia Almeida",
+    "email": "salmeida@iconnections.io",
+    "role": "Junior CSM",
+    "avatarColor": "#C46D8A",
+    "initials": "SA"
+  }
+]

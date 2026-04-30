@@ -1,0 +1,577 @@
+{
+  "firm-aldercrest": {
+    "clientId": "firm-aldercrest",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Aldercrest just closed a $400M mandate — congratulate Sarah and ask what's next",
+        "rationale": "The team closed a sleeve from a Midwestern pension, which Sarah confirmed on the 18 April call was their biggest single close in 18 months. This is a natural opening for discussing which allocator types they want to target next and how the platform can replicate that success.",
+        "source": { "type": "call", "id": "call-ac-001", "label": "Q2 Check-in · 18 Apr" }
+      },
+      {
+        "headline": "Global Alts Miami slot booking opens next week — make sure Sarah has the three allocator profiles",
+        "rationale": "Enterprise slot booking priority opens in early May. Aldercrest has 20 pre-scheduled slots available. Pinehurst, Larkspur, and Mendoza are the three specific profiles flagged for review, and Sarah confirmed she wants them before Friday.",
+        "source": { "type": "call", "id": "call-ac-003", "label": "Global Alts Prep · 15 Jan" }
+      },
+      {
+        "headline": "Product request: meeting-outcome tagging is still unresolved — give Sarah an update",
+        "rationale": "Sarah and Nina both flagged the need for automatic meeting-outcome tagging in the analytics dashboard. This has been escalated to product, but the feature is on the Q3 roadmap. Giving a concrete update or ETA will reinforce that the feedback was heard.",
+        "source": { "type": "note", "id": "note-ac-001", "label": "Post-call note · 18 Apr" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-04-18T14:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Sarah confirmed the $400M Midwestern pension close and credited warm intros as the primary driver",
+        "Requested three allocator profiles (Pinehurst, Larkspur, Mendoza) before the Friday team call",
+        "Flagged meeting-outcome tagging and a full funnel view as the two outstanding product requests"
+      ],
+      "openFollowUps": [
+        "Send three allocator profiles today",
+        "Pass meeting-outcome tagging request to product with business case",
+        "Confirm Enterprise slot count for Global Alts Miami"
+      ],
+      "sourceCallId": "call-ac-001"
+    },
+    "platformActivity": {
+      "logins": 62,
+      "meetingsRequested": 42,
+      "meetingsAttended": 28,
+      "profileViews": 142,
+      "loginDelta": "+18%",
+      "meetingsDelta": "+12%",
+      "profileViewsDelta": "+24%"
+    },
+    "newsItems": ["news-ac-01", "news-ac-02", "news-ac-03"],
+    "recentNotes": ["note-ac-004", "note-ac-001", "note-ac-002"]
+  },
+
+  "firm-pinehurst": {
+    "clientId": "firm-pinehurst",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Pinehurst has $4.2B to deploy into alts — position Brightwater Credit and Aldercrest as first introductions",
+        "rationale": "The board approved an alternatives target increase to 22% in February, representing approximately $4.2B in incremental deployment. Robert confirmed on the 28 March call that direct lending and long/short equity are the two priority strategies. Both Brightwater Credit and Aldercrest have been pre-identified.",
+        "source": { "type": "call", "id": "call-pp-001", "label": "Q1 Review · 28 Mar" }
+      },
+      {
+        "headline": "Diana wants the 18-month engagement history report — have it ready before the meeting",
+        "rationale": "Diana Forsythe specifically requested a full engagement report covering all 14 manager relationships facilitated through the platform over the past 18 months. The report is for board reporting purposes and has a high visibility deadline.",
+        "source": { "type": "note", "id": "note-pp-001", "label": "Q1 Review Note · 28 Mar" }
+      },
+      {
+        "headline": "Allison Torres is leading the alternatives search — make her the strategic relationship contact",
+        "rationale": "Based on the recent team call, Diana delegated the hands-on alternatives manager search to Allison Torres. Allison is the one asking detailed questions about ticket sizes and strategy fit. Building a direct relationship with her will accelerate deal flow.",
+        "source": { "type": "call", "id": "call-pp-001", "label": "Q1 Review · 28 Mar" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-03-28T14:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Board-approved alternatives expansion to 22%, representing $4.2B in incremental deployment",
+        "Brightwater Credit and Aldercrest Capital both shortlisted for direct introductions",
+        "Diana requested full 18-month platform engagement history report for board materials"
+      ],
+      "openFollowUps": [
+        "Send 18-month engagement report to Diana by 4 April",
+        "Confirm minimum ticket size with Aldercrest IR for Pinehurst meeting",
+        "Register Robert and team for Global Alts Miami — up to four attendees"
+      ],
+      "sourceCallId": "call-pp-001"
+    },
+    "platformActivity": {
+      "logins": 47,
+      "meetingsRequested": 20,
+      "meetingsAttended": 14,
+      "profileViews": 89,
+      "loginDelta": "+8%",
+      "meetingsDelta": "+22%",
+      "profileViewsDelta": "+15%"
+    },
+    "newsItems": ["news-pp-01", "news-pp-02", "news-pp-03"],
+    "recentNotes": ["note-pp-004", "note-pp-001", "note-pp-003"]
+  },
+
+  "firm-mendoza": {
+    "clientId": "firm-mendoza",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Claire raised match-quality concerns and mentioned Albourne — this call needs to turn things around",
+        "rationale": "On 5 March, Claire Dupont flagged three consecutive manager mismatches involving incompatible liquidity structures. She mentioned evaluating Albourne Partners as an alternative sourcing channel. This is the highest-priority retention conversation in the portfolio.",
+        "source": { "type": "call", "id": "call-mf-003", "label": "Platform Feedback · 5 Mar" }
+      },
+      {
+        "headline": "The filter-refinement session was scheduled — confirm it happened and share updated match results",
+        "rationale": "Phoebe committed to a filter-refinement session with Claire and Victor the week of 10 March to rebuild Mendoza's preference profile from scratch, with emphasis on the liquidity hard requirement. Come prepared to demonstrate the improvement with real examples.",
+        "source": { "type": "note", "id": "note-mf-001", "label": "Escalation Note · 5 Mar" }
+      },
+      {
+        "headline": "Claire is new to the family office world — emphasise the warm-intro angle over raw search volume",
+        "rationale": "Claire comes from Goldman Sachs institutional investing. Based on the November introductory call, she values bespoke match quality and co-investment rights over scale. Positioning the platform as a curated relationship tool rather than a database will resonate more with her background.",
+        "source": { "type": "note", "id": "note-mf-002", "label": "New CIO Intro · 19 Nov" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-03-05T11:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Claire raised three consecutive manager mismatches with incompatible liquidity structures",
+        "Mentioned evaluating Albourne Partners — serious churn signal flagged internally",
+        "Agreed on a filter-refinement session with Claire and Victor the week of 10 March"
+      ],
+      "openFollowUps": [
+        "Confirm filter-refinement session happened and results were satisfactory",
+        "Share five new manager matches calibrated to quarterly liquidity requirement",
+        "Follow up with written summary of platform improvements made to Mendoza account"
+      ],
+      "sourceCallId": "call-mf-003"
+    },
+    "platformActivity": {
+      "logins": 18,
+      "meetingsRequested": 13,
+      "meetingsAttended": 5,
+      "profileViews": 34,
+      "loginDelta": "-38%",
+      "meetingsDelta": "-25%",
+      "profileViewsDelta": "-42%"
+    },
+    "newsItems": ["news-mf-01", "news-mf-02", "news-mf-03"],
+    "recentNotes": ["note-mf-001", "note-mf-003", "note-mf-002"]
+  },
+
+  "firm-larkspur": {
+    "clientId": "firm-larkspur",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Naomi wants a second meeting with Quartzlight Ventures — confirm the warm intro was sent",
+        "rationale": "On the 10 April annual review, Naomi Cheng requested a direct introduction to Taylor Brennan at Quartzlight Ventures for a second meeting with the full GP team. Phoebe committed to sending the warm intro email that day. Confirming it landed and scheduling the meeting will demonstrate follow-through.",
+        "source": { "type": "call", "id": "call-le-001", "label": "Annual Review · 10 Apr" }
+      },
+      {
+        "headline": "Larkspur hit their CPI+5% target — alternatives drove 340 bps of outperformance",
+        "rationale": "Margaret opened the annual review by confirming Larkspur hit its benchmark return, with alternatives as the primary driver. This is a natural opening to ask about expanding the alternatives allocation further and how the platform can support the next wave of manager introductions.",
+        "source": { "type": "call", "id": "call-le-001", "label": "Annual Review · 10 Apr" }
+      },
+      {
+        "headline": "Full-funnel reporting is their biggest platform frustration — share the Q3 roadmap update",
+        "rationale": "Margaret specifically called out the lack of full-funnel tracking (from introduction through to capital commitment) as the primary limitation of the platform for Larkspur's reporting process. This is on the product roadmap for Q3 2026 and sharing that update will demonstrate responsiveness.",
+        "source": { "type": "note", "id": "note-le-001", "label": "Annual Review Note · 10 Apr" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-04-10T14:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Endowment hit CPI+5% target for FY 2025, with alternatives as the primary performance driver",
+        "Planning to increase VC allocation by 3 percentage points over the next two fiscal years",
+        "Naomi requested warm intro to Taylor Brennan at Quartzlight and second meeting with full GP team"
+      ],
+      "openFollowUps": [
+        "Confirm warm intro email to Taylor Brennan was sent and meeting scheduled",
+        "Follow up with Aldercrest about introduction to Larkspur for hedge fund sleeve",
+        "Share product roadmap update on full-funnel reporting feature (Q3 target)"
+      ],
+      "sourceCallId": "call-le-001"
+    },
+    "platformActivity": {
+      "logins": 38,
+      "meetingsRequested": 23,
+      "meetingsAttended": 15,
+      "profileViews": 71,
+      "loginDelta": "+12%",
+      "meetingsDelta": "+18%",
+      "profileViewsDelta": "+9%"
+    },
+    "newsItems": ["news-le-01", "news-le-02", "news-le-03"],
+    "recentNotes": ["note-le-001", "note-le-002", "note-le-003"]
+  },
+
+  "firm-northwind": {
+    "clientId": "firm-northwind",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "The $800M infrastructure mandate is live — check in on the first tranche of introductions",
+        "rationale": "Daniel Huang outlined a new $800M infrastructure equity and debt co-investment mandate on the 14 February call. Marcus committed to introducing four managers by 28 February and four more by 31 March. Checking progress on these specific introductions will reinforce the platform's execution against commitments.",
+        "source": { "type": "call", "id": "call-nc-002", "label": "New Mandate · 14 Feb" }
+      },
+      {
+        "headline": "Four meetings progressed to full due diligence in Q1 — ask Thomas which will close first",
+        "rationale": "Thomas Bridger confirmed four manager meetings progressed to full due diligence in Q1, and overall sentiment was very positive. Asking which relationship is closest to closing helps the CSM stay ahead of any obstacles and positions the platform for a strong case study.",
+        "source": { "type": "call", "id": "call-nc-001", "label": "Q1 Review · 5 Apr" }
+      },
+      {
+        "headline": "Samantha has been asking for mandate-tagging in the meeting dashboard for two consecutive quarters",
+        "rationale": "This product request has come up in both the Q4 2025 and Q1 2026 reviews. The feature is not yet on the roadmap. Giving Samantha a direct answer — even if the answer is that it will not arrive until H2 — is better than leaving the request in limbo.",
+        "source": { "type": "note", "id": "note-nc-001", "label": "Q1 Review Note · 5 Apr" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-04-05T14:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Strong Q1 — four manager meetings progressed to full due diligence",
+        "Thomas expressed high satisfaction with introduction quality and platform workflow",
+        "Samantha reiterated mandate-tagging feature request — second quarter raising it"
+      ],
+      "openFollowUps": [
+        "Check on infrastructure mandate tranche two introductions (due 31 March)",
+        "Get firm answer from product on mandate-tagging timeline for Samantha",
+        "Follow up with Daniel Huang on the infrastructure pipeline specifically"
+      ],
+      "sourceCallId": "call-nc-001"
+    },
+    "platformActivity": {
+      "logins": 58,
+      "meetingsRequested": 38,
+      "meetingsAttended": 26,
+      "profileViews": 156,
+      "loginDelta": "+22%",
+      "meetingsDelta": "+28%",
+      "profileViewsDelta": "+31%"
+    },
+    "newsItems": ["news-nc-01", "news-nc-02"],
+    "recentNotes": ["note-nc-001", "note-nc-002"]
+  },
+
+  "firm-vesper": {
+    "clientId": "firm-vesper",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "EM sleeve launches next month — confirm the profile update is ready to go live",
+        "rationale": "Vesper formally launches their emerging markets rates and FX sleeve in May. Phoebe committed to working with Helena on profile updates to ensure proper mandate tags and allocator-type preferences are set before launch. The profile update determines discoverability for this new product.",
+        "source": { "type": "call", "id": "call-vm-001", "label": "Renewal Call · 2 Apr" }
+      },
+      {
+        "headline": "Two Global Alts Switzerland introductions are in active due diligence — ask for the update",
+        "rationale": "Oliver Ashford confirmed on the 2 April renewal call that two family office relationships from Global Alts Switzerland 2025 have progressed to active due diligence. Getting a progress update from Helena will allow the CSM to track potential commitment timelines.",
+        "source": { "type": "call", "id": "call-vm-001", "label": "Renewal Call · 2 Apr" }
+      },
+      {
+        "headline": "Written confirmation is due: EM sleeve is covered under the existing subscription",
+        "rationale": "Helena raised a specific contractual question on the renewal call about whether the EM sleeve counts as a separate product under the subscription terms. Phoebe committed to sending written legal confirmation. This action item must be complete before the meeting.",
+        "source": { "type": "note", "id": "note-vm-001", "label": "Renewal Note · 2 Apr" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-04-02T10:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Oliver confirmed two family office relationships from Global Alts Switzerland are in active due diligence",
+        "Helena raised whether the new EM sleeve is covered under the existing subscription — confirmed yes, awaiting written confirmation",
+        "Profile update needed before EM sleeve launch in May — discoverability is key"
+      ],
+      "openFollowUps": [
+        "Send written legal confirmation that EM sleeve is covered under existing subscription",
+        "Complete profile update for EM sleeve tags and allocator-type preferences",
+        "Introduce six EM-appetite allocators before the sleeve launch"
+      ],
+      "sourceCallId": "call-vm-001"
+    },
+    "platformActivity": {
+      "logins": 38,
+      "meetingsRequested": 28,
+      "meetingsAttended": 19,
+      "profileViews": 112,
+      "loginDelta": "+14%",
+      "meetingsDelta": "+18%",
+      "profileViewsDelta": "+22%"
+    },
+    "newsItems": ["news-vm-01", "news-vm-02", "news-vm-03"],
+    "recentNotes": ["note-vm-001", "note-vm-002", "note-vm-003"]
+  },
+
+  "firm-glenfield": {
+    "clientId": "firm-glenfield",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Glenfield is deploying into 6 percentage points of new alternatives — the shortlist needs to be delivered",
+        "rationale": "Barbara and Michael outlined a mandate expansion from 8% to 14% on the 18 March strategy call. James committed to delivering a curated shortlist of ten managers across private credit, infrastructure, and low-net hedge funds. Confirming the shortlist was delivered and reviewing it together is the priority for any upcoming call.",
+        "source": { "type": "call", "id": "call-gi-001", "label": "Alternatives Expansion · 18 Mar" }
+      },
+      {
+        "headline": "Lauren and David are freshly onboarded — check how they are finding the platform two months in",
+        "rationale": "Lauren Park and David Elsworth were both onboarded on 28 January. Two months in is the right time to check in on adoption, surface any friction points, and ensure they are getting value from the analytics dashboard that David specifically asked about during training.",
+        "source": { "type": "call", "id": "call-gi-002", "label": "Onboarding · 28 Jan" }
+      },
+      {
+        "headline": "Renewal is in April — confirm timeline and ask Barbara if any board discussions have happened",
+        "rationale": "Glenfield's renewal is due this month. Given the ongoing alternatives expansion strategy, there is a strong case for maintaining or upgrading the subscription. Getting ahead of the conversation before the formal renewal date reduces risk.",
+        "source": { "type": "activity", "id": "firm-glenfield", "label": "Subscription data" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-03-18T14:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Alternatives expansion from 8% to 14% confirmed — investment-grade private credit, infrastructure, and low-net hedge funds",
+        "NAIC capital constraints require insurance-dedicated structures for some product categories",
+        "Curated shortlist of ten managers requested by 25 March"
+      ],
+      "openFollowUps": [
+        "Confirm ten-manager shortlist was delivered and follow up on any feedback",
+        "Check in with Lauren and David on platform adoption (2-month post-onboarding)",
+        "Initiate April renewal conversation with Barbara"
+      ],
+      "sourceCallId": "call-gi-001"
+    },
+    "platformActivity": {
+      "logins": 42,
+      "meetingsRequested": 25,
+      "meetingsAttended": 16,
+      "profileViews": 98,
+      "loginDelta": "+32%",
+      "meetingsDelta": "+45%",
+      "profileViewsDelta": "+38%"
+    },
+    "newsItems": ["news-gi-01", "news-gi-02"],
+    "recentNotes": ["note-gi-001", "note-gi-002"]
+  },
+
+  "firm-cobalt": {
+    "clientId": "firm-cobalt",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Cobalt committed $250M to climate alts — the Quartzlight-adjacent introductions should be first",
+        "rationale": "Cobalt Bridge has publicly committed $250M to a climate-focused alternatives portfolio. Three Quartzlight-adjacent managers with measurable emissions targets were identified in March. Following through on those introductions directly supports Cobalt's stated investment mandate.",
+        "source": { "type": "call", "id": "call-cb-001", "label": "Impact Strategy · 20 Mar" }
+      },
+      {
+        "headline": "Jason is waiting on board approval for the Premium upgrade — follow up on the November proposal",
+        "rationale": "Jason Weller confirmed on the October call that the Standard tier meeting-request quota is a bottleneck. He said the upgrade proposal would go to the November board. If board approval came through, the account should be upgraded. If not, understanding the obstacle will help resolve it.",
+        "source": { "type": "note", "id": "note-cb-002", "label": "Standard Review · 8 Oct" }
+      },
+      {
+        "headline": "Amara Diallo is building the climate VC sleeve — she is the most engaged team member to cultivate",
+        "rationale": "Based on the March impact strategy discussion, Amara is leading the hands-on portfolio construction for Cobalt's climate alternative investments. She asked the most specific questions about manager impact credentials. Building a direct relationship with Amara will be the best route to deepening the account.",
+        "source": { "type": "call", "id": "call-cb-001", "label": "Impact Strategy · 20 Mar" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-03-20T11:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Updated investment policy requires documented impact thesis for all new alternative manager relationships",
+        "Amara is building a climate tech VC sleeve — three candidate managers with emissions targets identified",
+        "Standard tier meeting quota confirmed as a bottleneck — upgrade proposal in process"
+      ],
+      "openFollowUps": [
+        "Send introductions to three climate tech VC managers by end of March",
+        "Follow up with Jason on board decision about Premium upgrade",
+        "Build direct relationship with Amara as the investment team lead for alternatives"
+      ],
+      "sourceCallId": "call-cb-001"
+    },
+    "platformActivity": {
+      "logins": 24,
+      "meetingsRequested": 12,
+      "meetingsAttended": 7,
+      "profileViews": 45,
+      "loginDelta": "+5%",
+      "meetingsDelta": "+8%",
+      "profileViewsDelta": "+3%"
+    },
+    "newsItems": ["news-cb-01", "news-cb-02"],
+    "recentNotes": ["note-cb-001", "note-cb-002"]
+  },
+
+  "firm-brightwater": {
+    "clientId": "firm-brightwater",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Brightwater closed Fund III oversubscribed — three LPs came directly from iConnections introductions",
+        "rationale": "Christine Malone confirmed on the 10 February close celebration call that three LP commitments — a public pension and two insurance companies — were directly attributable to iConnections platform introductions. This is the strongest reference story in the book and worth celebrating with the team.",
+        "source": { "type": "call", "id": "call-bc-001", "label": "Fund III Close · 10 Feb" }
+      },
+      {
+        "headline": "Fund IV planning is starting early — position the platform as the primary LP sourcing channel",
+        "rationale": "Andrew mentioned on the February call that Brightwater wants to begin early planning for Fund IV and is seeking exclusive access to the platform. Formalising this exclusivity arrangement early — and outlining what an exclusive partnership would look like — will strengthen the renewal and the overall relationship.",
+        "source": { "type": "note", "id": "note-bc-001", "label": "Fund III Close Note · 10 Feb" }
+      },
+      {
+        "headline": "The full-funnel tracking request is a priority for three clients — tell Andrew it is on the roadmap",
+        "rationale": "Andrew and Grace raised the need for full-funnel tracking (introduction to commitment) in the March pipeline review. This is the same request from Northwind and Larkspur. If the product roadmap includes it in H2 2026, telling Andrew now will reinforce platform value and reduce the case for building a separate CRM integration.",
+        "source": { "type": "note", "id": "note-bc-002", "label": "Q1 Pipeline Review · 28 Mar" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-03-28T10:00:00Z",
+      "type": "call",
+      "bullets": [
+        "18 active allocator relationships in pipeline, 6 of which originated from iConnections introductions",
+        "Andrew and Grace requested full-funnel tracking from introduction to capital commitment",
+        "Team confirmed interest in maintaining exclusive platform access heading into Fund IV"
+      ],
+      "openFollowUps": [
+        "Share product roadmap update on full-funnel tracking feature",
+        "Draft exclusive platform partnership proposal for Fund IV",
+        "Identify five additional allocator introductions for Q2 pipeline refresh"
+      ],
+      "sourceCallId": "call-bc-002"
+    },
+    "platformActivity": {
+      "logins": 62,
+      "meetingsRequested": 48,
+      "meetingsAttended": 32,
+      "profileViews": 168,
+      "loginDelta": "+28%",
+      "meetingsDelta": "+35%",
+      "profileViewsDelta": "+42%"
+    },
+    "newsItems": ["news-bc-01", "news-bc-02", "news-bc-03"],
+    "recentNotes": ["note-bc-002", "note-bc-001"]
+  },
+
+  "firm-stonemoor": {
+    "clientId": "firm-stonemoor",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Karen Whitmore is three months into her role — this is the right time for a proper relationship check-in",
+        "rationale": "Karen joined from Blackstone LP Relations in November and was fully onboarded to the platform. Three months in is a natural checkpoint to ask how she is finding the experience, whether there are any gaps in the workflow, and what her goals are for the second half of 2026.",
+        "source": { "type": "call", "id": "call-sr-002", "label": "Team Change · 4 Nov" }
+      },
+      {
+        "headline": "Stonemoor closed Fund VII at $2.8B — find out if the Sun Belt allocator meetings contributed",
+        "rationale": "Stonemoor closed Fund VII above target in February. Given that Karen's Global Alts Miami targeting list was focused specifically on insurance companies and pensions with Sun Belt real estate interest, there is a strong chance some of those meetings contributed to the close.",
+        "source": { "type": "activity", "id": "firm-stonemoor", "label": "Platform activity" }
+      },
+      {
+        "headline": "Marcus Reid's one-pager request from January — confirm it was delivered and is being used",
+        "rationale": "On the January event strategy call, Marcus Reid specifically requested a one-pager on how the platform helps pre-qualify meeting partners before conferences. If this was delivered and is being used by the team, it is worth asking for feedback. If it was not delivered, it needs to happen before the next conference.",
+        "source": { "type": "note", "id": "note-sr-001", "label": "2026 Event Strategy · 12 Jan" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-01-12T14:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Annual event strategy planning for Global Alts Miami — Karen's target list is six insurance companies and four public pensions",
+        "Marcus Reid requested a one-pager on pre-qualifying meeting partners via the platform",
+        "Team is fully oriented around Sun Belt real estate strategy — allocator matching is strong"
+      ],
+      "openFollowUps": [
+        "Follow up with Karen on platform experience three months post-onboarding",
+        "Confirm whether Fund VII close benefited from Miami meeting introductions",
+        "Check in on Marcus Reid's one-pager — was it delivered and used?"
+      ],
+      "sourceCallId": "call-sr-001"
+    },
+    "platformActivity": {
+      "logins": 34,
+      "meetingsRequested": 30,
+      "meetingsAttended": 20,
+      "profileViews": 94,
+      "loginDelta": "+18%",
+      "meetingsDelta": "+22%",
+      "profileViewsDelta": "+16%"
+    },
+    "newsItems": ["news-sr-01", "news-sr-02", "news-sr-03"],
+    "recentNotes": ["note-sr-001", "note-sr-002"]
+  },
+
+  "firm-halcyon": {
+    "clientId": "firm-halcyon",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Three allocators in final due diligence — ask Jonathan which is expected to close first",
+        "rationale": "Jonathan confirmed on the 15 April quarterly review that three institutional allocators are in final due diligence, two of which came directly from iConnections introductions. Getting visibility into the expected close timeline and deal size will help quantify the platform's contribution and strengthen the renewal case.",
+        "source": { "type": "call", "id": "call-hq-001", "label": "Q4 Review · 15 Apr" }
+      },
+      {
+        "headline": "The spring roadshow is happening — confirm the allocator lists for Boston, Chicago, and Singapore are ready",
+        "rationale": "Ingrid and Elena planned a Boston-Chicago-Singapore roadshow for May-June. Olivia committed to targeted allocator lists 2-3 weeks before each stop. With the first stop potentially in early May, confirming the Boston list is ready and introductions are queued will keep the roadshow on track.",
+        "source": { "type": "call", "id": "call-hq-002", "label": "Roadshow Planning · 5 Mar" }
+      },
+      {
+        "headline": "API integration partnership is on the table — this needs a product meeting, not just a CSM conversation",
+        "rationale": "Jonathan mentioned interest in API access for automated prospect syncing during the Q4 review. Olivia flagged it to product as a high-priority partnership opportunity. Bringing in a product representative for a scoped discovery call would accelerate this and signal that iConnections is taking the opportunity seriously.",
+        "source": { "type": "note", "id": "note-hq-001", "label": "Q4 Review Note · 15 Apr" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-04-15T14:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Highest meeting-request conversion rate on the entire platform — Jonathan cited precise match targeting as the driver",
+        "Three institutional allocators in final due diligence, two from iConnections introductions",
+        "Renewing early at Enterprise and exploring API access for automated prospect syncing"
+      ],
+      "openFollowUps": [
+        "Confirm targeted allocator lists are ready for Boston roadshow stop (early May)",
+        "Arrange product discovery call for the API integration partnership",
+        "Early renewal paperwork — confirm Enterprise terms and pricing with James Okafor"
+      ],
+      "sourceCallId": "call-hq-001"
+    },
+    "platformActivity": {
+      "logins": 78,
+      "meetingsRequested": 60,
+      "meetingsAttended": 38,
+      "profileViews": 214,
+      "loginDelta": "+32%",
+      "meetingsDelta": "+38%",
+      "profileViewsDelta": "+45%"
+    },
+    "newsItems": ["news-hq-01", "news-hq-02", "news-hq-03", "news-hq-04"],
+    "recentNotes": ["note-hq-001", "note-hq-002"]
+  },
+
+  "firm-quartzlight": {
+    "clientId": "firm-quartzlight",
+    "generatedAt": "2026-04-30T09:00:00Z",
+    "talkingPoints": [
+      {
+        "headline": "Fund IV is live at $600M target — Larkspur and Mendoza are ready introductions, confirm timing",
+        "rationale": "Taylor and Mei launched the Fund IV fundraise in March with a Q3 2026 first close target. Phoebe identified Larkspur (Naomi Cheng is actively interested) and Mendoza (pending Claire's approval) as priority introductions. Confirming whether both are ready to proceed will move this forward.",
+        "source": { "type": "call", "id": "call-qv-001", "label": "Fund IV Kickoff · 22 Mar" }
+      },
+      {
+        "headline": "Profile views recovered after the filter fix — show Mei the recovery data",
+        "rationale": "The 30% profile view drop was traced to a category filter change in November and partially resolved in February. Showing Mei actual data on the recovery will rebuild confidence in the platform and address the concern she raised directly on the February call.",
+        "source": { "type": "note", "id": "note-qv-002", "label": "At-Risk Flag · 18 Feb" }
+      },
+      {
+        "headline": "Renewal is in November but budget pressure is real — consider a fundraise-aligned pricing option",
+        "rationale": "Mei raised budget constraints on the February platform review call, noting the fundraise period creates pressure on the subscription budget. Exploring whether there is a payment-deferral or fundraise-period pricing option would reduce churn risk and demonstrate partnership orientation.",
+        "source": { "type": "call", "id": "call-qv-002", "label": "Engagement Review · 18 Feb" }
+      }
+    ],
+    "lastTouchpoint": {
+      "date": "2026-03-22T15:00:00Z",
+      "type": "call",
+      "bullets": [
+        "Fund IV launched at $600M target with Q3 2026 first close — Larkspur and Mendoza identified as priority introductions",
+        "Sofia committed to facilitating introductions to both pending approval from respective allocators",
+        "Budget pressure heading into the fundraise — renewal in November at risk if ROI is not demonstrated"
+      ],
+      "openFollowUps": [
+        "Confirm Larkspur introduction to Taylor Brennan — Naomi has expressed interest",
+        "Get approval from Claire Dupont at Mendoza before facilitating the introduction",
+        "Explore fundraise-aligned pricing option to reduce November renewal risk"
+      ],
+      "sourceCallId": "call-qv-001"
+    },
+    "platformActivity": {
+      "logins": 28,
+      "meetingsRequested": 17,
+      "meetingsAttended": 8,
+      "profileViews": 56,
+      "loginDelta": "+22%",
+      "meetingsDelta": "+14%",
+      "profileViewsDelta": "+28%"
+    },
+    "newsItems": ["news-qv-01", "news-qv-02", "news-qv-03"],
+    "recentNotes": ["note-qv-001", "note-qv-002"]
+  }
+}
